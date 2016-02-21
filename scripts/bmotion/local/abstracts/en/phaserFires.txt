@@ -1,0 +1,11 @@
+/accidentally activates the wrong system and replicates a small tree
+/anchors %% to a small asteriod, paints a target on their upper hull, and fires a full phaser blast at them
+/fires several shots from the forward phaser banks, destroying %%%|/flies out through the explosion in an impressive bit of piloting (not to mention rendering %SMILEY{smile}
+/fires several shots from the forward phaser banks, disabling %%
+/flies around %%, firing the ventral arrays
+/jumps to high impulse past %% and fires the aft phaser banks
+/misses a gear and stalls%|%VAR{oops}%|%bot[50,¬VAR{ruins}]
+/pulls the Picard move (the non-uniform one)
+/rolls over, flying over %% upside down, firing the dorsal phaser arrays on the way past
+/uses attack pattern alpha, spiralling towards %%, firing all phaser banks%|* %% is blown to pieces as %me flies off into the middle distance
+System failure: TA/T/TS could not interface with phaser command processor (ODN failure)

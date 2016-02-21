@@ -1,0 +1,4 @@
+%VAR{smiles}
+*drool*
+/bounces around
+wh%REPEAT{3:7:e} %VAR{smiles}

@@ -1,0 +1,6 @@
+dalnet
+efnet
+freenode
+ircnet
+quakenet
+undernet

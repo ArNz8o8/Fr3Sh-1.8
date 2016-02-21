@@ -1,0 +1,7 @@
+%%: %2
+%%: %2%|Or you could just use a placebo
+%%: actually, i think it's %VAR{sillyThings}
+%%: none of the above
+/flips a coin%|%%: %2
+/ponders%|%%: %2
+/thinks%|%%: %2

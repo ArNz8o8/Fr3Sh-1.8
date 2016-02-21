@@ -1,0 +1,2 @@
+%VAR{scrap_construction}
+%VAR{scrap_silly_construction_t}

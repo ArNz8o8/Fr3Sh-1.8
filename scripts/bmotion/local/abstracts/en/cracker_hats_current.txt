@@ -1,0 +1,4 @@
+%2 hats
+/has %2 hats on
+/holds up %2 fingers
+/is wearing %2 hats

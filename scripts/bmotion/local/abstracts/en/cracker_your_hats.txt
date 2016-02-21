@@ -1,0 +1,2 @@
+Woo, %2 hats for you %SMILEY{smile}
+You're now wearing %2 hats.

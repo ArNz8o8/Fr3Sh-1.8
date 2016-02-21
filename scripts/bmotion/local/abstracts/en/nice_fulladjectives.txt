@@ -1,0 +1,4 @@
+%VAR{amount} %VAR{nice_adjective}
+%VAR{amount} %VAR{nice_adjective}, %VAR{nice_adjective}
+%VAR{amount} %VAR{nice_adjective}, %VAR{nice_coveredin}
+%VAR{amount} %VAR{nice_coveredin}

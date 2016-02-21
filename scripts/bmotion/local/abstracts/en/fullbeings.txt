@@ -1,0 +1,2 @@
+%VAR{amount} %VAR{beings}
+%VAR{amount} %VAR{fulladjective} %VAR{beings}

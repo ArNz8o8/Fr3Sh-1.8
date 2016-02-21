@@ -1,0 +1,8 @@
+%VAR{sfx}
+%VAR{sfx} %VAR{sound2}
+%VAR{sounds}
+%VAR{sounds} %VAR{sound2}
+%VAR{sounds} %VAR{sound2} 
+%VAR{sfx} %VAR{sound2} 
+%VAR{sounds} 
+%VAR{sfx} 

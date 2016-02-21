@@ -1,0 +1,27 @@
+%ruser
+Acumen
+Aphex Twin
+Brian Eno
+Britney Spears
+Cannibal Corpse
+Capitol City Jazz Ensemble
+Coldplay
+DJ %VAR{sillyThings:strip}
+Elwood
+Infected Mushroom
+KOMPRESSOR
+Laibach
+Legendary Pink Dots
+Napalm Death
+Neil Diamond
+Nine Inch Nails
+Nirvana
+Oasis
+Spice Girls
+Strapping Young Lad
+The Cure
+Throbbing Gristle
+U2
+Unknown Artist
+Wu-Tang Clan
+that pop band nobody likes

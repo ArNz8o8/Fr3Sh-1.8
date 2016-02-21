@@ -1,0 +1,9 @@
+brass
+bronze
+copper
+gold
+iron
+lead
+platinum
+silver
+steel

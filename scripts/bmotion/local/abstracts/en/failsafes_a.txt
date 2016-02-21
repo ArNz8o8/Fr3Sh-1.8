@@ -1,0 +1,8 @@
+%REPEAT{3:7:m}
+%VAR{rarrs}
+%VAR{thanks}
+/. o O ( ? )
+/loves it
+/passes it on to %ruser
+i do love a good %%ing
+what

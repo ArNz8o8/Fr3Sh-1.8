@@ -1,0 +1,5 @@
+%%: +/
+/detects invalid regexp use
+Invalid regular expression.
+You suck at the regular expression syntax.
+s/you/suck/

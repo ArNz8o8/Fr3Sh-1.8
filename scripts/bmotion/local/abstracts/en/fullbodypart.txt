@@ -1,0 +1,2 @@
+%VAR{paintbodyparts}
+%VAR{paintbodypart}

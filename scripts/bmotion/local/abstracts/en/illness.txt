@@ -1,0 +1,1 @@
+%VAR{prom_first}%={:-:}%VAR{prom_second}%VAR{medical_suffix}

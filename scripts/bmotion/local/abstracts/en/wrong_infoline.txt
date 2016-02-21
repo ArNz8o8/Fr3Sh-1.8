@@ -1,0 +1,9 @@
+%VAR{oops}, wrong infoline, sorry
+%VAR{oops}huk, wrong infoline
+%VAR{oops}whoops
+/snigger
+huk, wrong infoline
+o wait not that infoline
+oops, wrong infoline, sorry
+wait, that's not right...
+whoops

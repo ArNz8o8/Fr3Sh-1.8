@@ -1,0 +1,5 @@
+%VAR{boos} i didn't win%|%VAR{yays}! you got a %VAR{cracker_neutral_item}
+%VAR{boos} i didn't win%|%VAR{yays}! you got a %VAR{cracker_want_item} %SMILEY{sad} wish i'd got that
+%VAR{boos} i didn't win%|%VAR{yays}! you got a %VAR{cracker_want_item} *jealous*
+%VAR{boos} i didn't win%|oh you got a %VAR{cracker_nowant_item} %SMILEY{smile} glad i didn't get that!
+%VAR{boos} you won%|a %VAR{cracker_want_item}! %={ace!:*jealous*:nice!}

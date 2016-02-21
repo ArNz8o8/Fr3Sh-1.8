@@ -1,0 +1,1 @@
+%VAR{energydrink_prefix} %VAR{animals:camel}

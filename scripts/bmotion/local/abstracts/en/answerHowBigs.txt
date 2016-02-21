@@ -1,0 +1,13 @@
+%NUMBER{100} metres
+%NUMBER{200} inches
+%NUMBER{50} miles
+about as big as %VAR{sillyThings}
+about as big as %ruser
+about as small as %VAR{sillyThings}
+about as small as %ruser
+big enough
+huge
+small enough
+tiny
+too big
+too small

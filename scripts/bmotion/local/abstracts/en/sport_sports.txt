@@ -1,0 +1,76 @@
+10-pin bowling
+American Football
+Draughts
+Formula 1
+Llama racing
+Monopoly
+NASCAR
+Scalextric(tm)
+Twister
+Uno
+aging
+archery
+athletics
+backstroke
+badminton
+basketball
+beach volleyball
+bobsled
+boxing
+breaststroke
+bridge
+bungee jumping
+butterfly stroke
+canoeing
+chess
+circus
+cycling
+diving
+drinking
+eating
+equestrian
+fencing
+field hockey
+football
+freestyle swimming
+geocaching
+golf
+gymnastics
+handball
+hockey
+ice hockey
+individual Medley
+jogging
+judo
+jumping
+lacross
+lavatory flushing
+leap-frog
+line dancing
+long jump
+medley relay
+migdet tossing
+modern pentathlon
+poker
+rallying
+rowing
+rugby
+sailing
+shooting
+shove ha'penny
+singing
+sking
+snowboarding
+swimming
+synchronized swimming
+table tennis
+taekwondo
+tennis
+triathlon
+vaulting
+volleyball
+web surfing
+weightlifting
+wind-surfing
+window cleaning
+wrestling

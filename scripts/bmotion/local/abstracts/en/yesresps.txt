@@ -1,0 +1,9 @@
+i think not, fool %VAR{smiles}
+nmm%colen
+no %%
+nope %VAR{smiles}
+oh no it isn't %VAR{smiles}
+omg
+rubbish %VAR{smiles}
+thingy
+wrong!

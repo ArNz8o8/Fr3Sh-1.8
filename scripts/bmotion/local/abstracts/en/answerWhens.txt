@@ -1,0 +1,9 @@
+%NUMBER{12}:%NUMBER{5}%NUMBER{9}
+in %NUMBER{59} minutes
+now!
+this afternoon
+this evening
+this morning
+today
+tomorrow
+yesterday

@@ -1,0 +1,2 @@
+%VAR{scrap_adult_construction_t}
+%VAR{scrap_construction}

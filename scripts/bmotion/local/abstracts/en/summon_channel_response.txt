@@ -1,0 +1,7 @@
+*pager on desk goes off*%|oh, %OWNER{%%} pager%|better let them know we've got it%|!summon %%%|*pager on desk goes off*%|oh %VAR{unsmiles}
+/prods at %% with %VAR{sillyThings}
+/stands behind %% poking them in the back till they turn around
+/uses a smoke signal to get %%'s attention
+through my awesome powers of telepathy, I shall summon %%!!
+why do you want to talk to %%?
+yeh... where is %%?

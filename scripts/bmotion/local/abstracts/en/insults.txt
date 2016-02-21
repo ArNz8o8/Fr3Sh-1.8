@@ -1,0 +1,3 @@
+%VAR{prom_first}
+%VAR{prom_first}-wizard
+%VAR{prom_first}osaurus rex

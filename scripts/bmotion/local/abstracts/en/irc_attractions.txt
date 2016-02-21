@@ -1,0 +1,5 @@
+Eggdrop House
+Oppingham Palace
+the Museum of Recursion %REPEAT{2:10:including the Museum of Recursion }
+the Sysops Museum
+the Victoria and Al-bot Museum

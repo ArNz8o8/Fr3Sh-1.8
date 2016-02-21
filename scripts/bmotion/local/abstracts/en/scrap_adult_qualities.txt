@@ -1,0 +1,2 @@
+%VAR{scrap_adult_qualities_t}
+%VAR{scrap_qualities}

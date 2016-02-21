@@ -1,0 +1,4 @@
+%VAR{food}
+butter
+lard
+some sort of very expensive cheese

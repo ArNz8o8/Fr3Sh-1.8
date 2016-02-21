@@ -1,0 +1,4 @@
+%VAR{swear}!%|/overslept %VAR{unsmiles}
+%VAR{swear}!%|slept through my alarm %VAR{unsmiles}
+%VAR{swear}, slept though my alarm
+oh %VAR{swear}, overslept%|all because i was %VAR{sillyVerbs:presentpart} too late last night

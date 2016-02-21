@@ -1,0 +1,2 @@
+%VAR{being}
+%VAR{fulladjective} %VAR{being}

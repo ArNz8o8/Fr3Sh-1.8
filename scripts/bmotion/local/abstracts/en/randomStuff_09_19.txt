@@ -1,0 +1,17 @@
+Avast, me proud beauty! Wanna know why my Roger is so Jolly?
+C'mere, me beauty
+Come on up and see me urchins
+Drink up, me hearties!
+How'd you like to scrape the barnacles off of me rudder
+Is that a hornpipe in your pocket, or are you just glad to see me?
+Prepare to be boarded
+Rum tastes horrible, and I hate wearing this eye-patch.
+Well, me hearties, let's see what crawled out of the bung hole
+a%REPEAT{4:30:r}!
+ahoy!
+avast!
+mmm grog
+mmm grog and wenches
+mmm wenches
+ya%REPEAT{4:20:r}!
+yarr!

@@ -1,0 +1,5 @@
+%VAR{sillyThings:strip,plural}
+clubs
+diamonds
+hearts
+spades

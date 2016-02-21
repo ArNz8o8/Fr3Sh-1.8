@@ -1,0 +1,4 @@
+%VAR{sounds} %VAR{sounds}
+%VAR{sounds} %VAR{sounds} %VAR{sounds} %VAR{sounds} %VAR{sounds} %VAR{sounds}
+%VAR{sounds} %VAR{sounds} %VAR{sounds} %|oh! excuse me
+%VAR{sounds} %VAR{sounds}%|/giggles

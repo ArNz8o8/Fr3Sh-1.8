@@ -1,0 +1,9 @@
+%VAR{answerWheres}
+%VAR{colours} %VAR{clothes}
+%VAR{current_status_prefix} %VAR{chocolates}
+%VAR{current_status_prefix} %VAR{foods}
+%VAR{current_status_prefix} %VAR{fruits:plural}
+%VAR{current_status_prefix} %VAR{musicalinstruments}
+%VAR{current_status_prefix} %VAR{vegetables}
+%VAR{energydrink}
+%VAR{sound_short}

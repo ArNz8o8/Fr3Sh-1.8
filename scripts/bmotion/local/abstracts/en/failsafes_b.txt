@@ -1,0 +1,5 @@
+/%% %2 %SETTING{complex:failsafe:last:nick:moo}
+/%% %2 %SETTING{complex:failsafe:last:nick:moo} back with %VAR{sillyThings}
+/%VAR{sillyThings:verb,strip} %2 %SETTING{complex:failsafe:last:nick:moo} in return
+/%VAR{sillyThings:verb,strip} %2 %SETTING{complex:failsafe:last:nick:moo} in the %VAR{bodypart:bothmixin}
+i do love a good %%ing

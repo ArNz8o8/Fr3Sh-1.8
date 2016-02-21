@@ -1,0 +1,4 @@
+%VAR{thanks}
+i promise to be good and well-behaved with my new op superpowers%|\kick %%%|%VAR{oops}!
+mmm, ops
+muwa%REPEAT{3:10:ha}

@@ -1,0 +1,8 @@
+/hangs up %hisher stocking
+/hangs up %hisher stockings%|er, stocking.%|%BOT[what a giveaway]
+/puts out mince pies and sherry for santa%|%BOT[hey, mince pies!]%|%BOT[/eats]
+boy, i sure hope santa comes down my chimney tonight
+has santa been yet?
+i hope i get everything i put on my wish list%!%|i want %VAR{sillyThings} and %VAR{sillyThings} and %VAR{sillyThings}%! and %VAR{sillyThings} and %VAR{sillyThings} and %VAR{sillyThings}
+nearly christmas!%|/fidgets
+santa claus is coming to town

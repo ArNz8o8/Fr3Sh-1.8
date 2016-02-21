@@ -1,0 +1,14 @@
+%VAR{unsmiles}
+*cough*google*cough*
+/dumb
+/stupid
+I was distracted by %VAR{sillyThings}
+feh
+hay you're cheating %VAR{unsmiles}
+hey stop copying me %VAR{unsmiles}
+i knew that
+i was going to say that next
+i wish i knew as much as you. really.
+that's not the right answer; the right answer is obviously '%VAR{sillyThings}'
+toss
+you're in league with the bot, i know it

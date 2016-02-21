@@ -1,0 +1,4 @@
+%VAR{adjective}
+%VAR{adjective}, %VAR{adjective}
+%VAR{adjective}, %VAR{coveredin}
+%VAR{coveredin}

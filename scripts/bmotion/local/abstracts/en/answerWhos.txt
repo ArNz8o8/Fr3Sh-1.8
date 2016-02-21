@@ -1,0 +1,30 @@
+%ruser
+Anna Kournikova
+Bill Gates
+Bob Monkhouse
+Brian
+Britney Spears
+Captain Porklord-Chocolate II
+Colen
+Dale Winton
+Davina McCall
+Domilijn
+Dr Beanturd Cake
+Graham Norton
+Harold from Neighbours
+Holly Valence
+Hwoarang
+Jade of Big Brother
+Joost
+Ling Xiaoyu
+Tim
+Tony Blair
+damo
+jms
+me
+monica
+the Kazon
+the cast of Dallas
+the editor of %VAR{newspapers}
+who do you think?
+you

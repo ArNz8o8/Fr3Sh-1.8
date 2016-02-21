@@ -1,0 +1,3 @@
+%VAR{thanks}
+my %2 is now %% fresh %SMILEY{smile}
+nothing worse than a stale %2

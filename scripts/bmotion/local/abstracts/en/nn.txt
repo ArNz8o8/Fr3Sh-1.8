@@ -1,0 +1,7 @@
+night
+nite
+nn
+nn %%
+nn %VAR{unsmiles}
+sleep well
+sweet dreams

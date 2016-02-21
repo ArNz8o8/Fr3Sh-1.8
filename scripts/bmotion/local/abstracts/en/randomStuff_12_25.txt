@@ -1,0 +1,8 @@
+/hands present to %ruser%|/. o O ( i hope they like their new %VAR{sillyThings:strip} )
+/opens present from %ruser%|%VAR{sillyThings}! just what i always wanted!
+happy christmas!
+merry christmas!
+mmm %ruser{like}%|hey look, mistletoe!%|;)
+mmm christmas
+mmm presents
+you'll never guess what santa put in my stocking

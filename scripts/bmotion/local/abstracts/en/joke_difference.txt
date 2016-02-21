@@ -1,0 +1,2 @@
+one's %r and the other's %r
+you can't unload a lorry of %rs with a pitchfork!

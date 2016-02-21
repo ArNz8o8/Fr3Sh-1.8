@@ -1,0 +1,70 @@
+*choo choo choo*
+*eeeem*
+*kaw*
+CLACK
+FLARPT
+FOOM
+ZAP
+arf
+arooga
+arrg splutter
+aww
+bep
+blaff
+bzz-bzz-bzz-bzz
+chuff!
+click-click!
+cough
+dong-doof
+drip
+eep
+feep-feep
+ffffflout
+ffworpp
+flick
+fweeee
+gah
+gibber
+glop
+goo
+gwaab
+harrumph
+hee-haw
+hiccup
+honk honk!
+hop
+klackety
+kyaaah
+neigh
+noooo
+ock
+oook-oook
+pap
+ph%REPEAT{3:7:b}t
+poke
+rustle
+slap slap
+slash!
+slep
+slip-beeeeeee
+smack
+snip!
+splatter
+splish
+splish-splash-woah
+sploosh
+splutter
+squelch
+tick
+tsk
+tweet tweet
+uh-uh-uh
+ulp-schwip
+voom
+whack
+whip
+whommm
+whump
+wobble
+wobble wobble!
+yuck

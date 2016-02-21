@@ -1,0 +1,7 @@
+%%
+%VAR{oops}
+%VAR{oops}, %%
+-typo
+/butterfingers
+ffs
+grrr %%

@@ -1,0 +1,5 @@
+/jams a hat %={on:in:up} %%
+don't forget to put on your hat
+hat time!
+here's your hat!
+put on your hat!

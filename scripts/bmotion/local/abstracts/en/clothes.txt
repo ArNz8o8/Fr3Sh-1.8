@@ -1,0 +1,37 @@
+anorak
+apron
+baseball cap
+beanie
+bobble hat
+boots
+breeches
+cape
+chaps
+coat
+cycling shorts
+fatsuit
+gloves
+jacket
+jean shorts
+jeans
+jumper
+pajamas
+pants
+polo shirt
+poncho
+raincoat
+sandals
+scarf
+shirt
+shoes
+shorts
+slippers
+sneakers
+socks
+straw hat
+suit
+sweater
+t-shirt
+trousers
+vest
+wetsuit

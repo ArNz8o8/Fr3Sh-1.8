@@ -1,0 +1,14 @@
+%% = %2
+%% = %2%|/= autoabacus %NUMBER{9}000
+%% = %2%|honestly, that was an easy one. couldn't you have worked that out yourself
+%% = %NUMBER{1000}%|oops, forgot to carry the one %VAR{unsmiles}%|actually, it's %2
+%% == %2
+%% equals %2
+%% is %2
+%2
+%2%|write that down in your copybooks now
+7%|(%2)
+for this problem, i'll need to set my calculator to 'maths'%|%2
+honestly, brain the size of %VAR{sillyThings} and all you can do is ask me to calculate %%?%|it's %2
+honestly, brain the size of a planet and all you can do is ask me to calculate %%?%|it's %2%|point %NUMBER{9}
+that's %2

@@ -1,0 +1,11 @@
+%REPEAT{3:6:o}h, %VAR{show_adjectives}!%|/steals %% and runs off%|ALL MINE NOW%colen%|/sells %% on ebay
+%VAR{show_whoas}%colen
+%VAR{show_whoas}.. that's %VAR{show_comparisons} than %VAR{sillyThings}!
+/admires %%
+/contemplates%|it'd be nicer if it had %VAR{sillyThings:strip,plural}
+/gasps in %VAR{show_amazements}
+/replaces %% with a cheap %VAR{colours} plastic copy%|bwaha%REPEAT{1:4:ha}
+/takes a picture
+I prefer %ruser{:owner}
+now that's %VAR{show_adjectives}
+p%REPEAT{2:5:f}t.. wait until you see my %VAR{sillyThings:strip}

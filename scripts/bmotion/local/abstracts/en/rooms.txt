@@ -1,0 +1,8 @@
+basement
+bathroom
+bedroom
+cellar
+kitchen
+living room
+lounge
+walk-in wardrobe

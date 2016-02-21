@@ -1,0 +1,11 @@
+%VAR{boos}! i won a %VAR{cracker_nowant_item} %SMILEY{sad}%! *%={stuffs:shoves:jams:inserts} it up %%*
+%VAR{boos}! i won a %VAR{cracker_nowant_item} %SMILEY{sad}%! i'd rather have %={had:won} %VAR{_bmotion_like}
+%VAR{yays}! i won a %VAR{cracker_nowant_item}... but I'd rather have had a %VAR{_bmotion_like}
+%VAR{yays}! i won a %VAR{cracker_want_item} %SMILEY{smile}%! much better than %={that time:when} i won %VAR{_bmotion_dislike}
+%VAR{yays}! i won a %VAR{cracker_want_item}%|glad I didn't get a %VAR{_bmotion_dislike}, i hate those
+%VAR{yays}! i won a hat!%|/puts on %hisher %VAR{cracker_want_item}
+%VAR{yays}! i won a... %VAR{cracker_nowant_item} %SMILEY{sad}%! i'd rather have %={had:won} %VAR{_bmotion_like}
+%VAR{yays}! i won!%|/got a %VAR{cracker_nowant_item}. hmm %SMILEY{sad}
+%VAR{yays}! i won!%|/got a %VAR{cracker_want_item} %SMILEY{smile}
+%VAR{yays}! i won!%|i got a %VAR{cracker_want_item} %SMILEY{smile}
+%VAR{yays}! i won!%|oh, i got a %VAR{cracker_nowant_item} %SMILEY{sad}

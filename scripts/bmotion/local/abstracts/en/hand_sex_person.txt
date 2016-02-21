@@ -1,0 +1,3 @@
+%REPEAT{3:8:m}
+%VAR{hand_like_person}
+oof

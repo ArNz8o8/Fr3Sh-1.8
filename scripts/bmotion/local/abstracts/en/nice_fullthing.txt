@@ -1,0 +1,4 @@
+%VAR{nice_fulladjective} %VAR{nice_paintbodypart}
+%VAR{nice_fulladjective} %VAR{nice_thing}
+%VAR{nice_paintbodypart}
+%VAR{nice_thing}

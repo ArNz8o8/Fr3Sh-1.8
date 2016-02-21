@@ -1,0 +1,2 @@
+%VAR{smiles}
+i like %%%|they are my friend %VAR{smiles}

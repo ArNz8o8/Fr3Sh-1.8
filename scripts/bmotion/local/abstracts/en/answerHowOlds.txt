@@ -1,0 +1,13 @@
+%NUMBER{100} years
+%NUMBER{365} days
+%NUMBER{60} minutes
+%NUMBER{60} seconds
+%VAR{answerHowLongs}
+%VAR{answerHowmanys}
+about as old as %VAR{sillyThings}
+about as old as %ruser
+old enough
+older than %VAR{sillyThings}
+older than %ruser
+too old
+too young

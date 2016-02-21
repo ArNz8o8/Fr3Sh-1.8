@@ -1,0 +1,142 @@
+%ruser
+ATAT
+BBQ grill
+CD player
+GPS
+MP3 player
+TV
+VCR
+action hero
+air conditioner
+alarm clock
+angel
+answering machine
+baby
+barbecue grill
+beam of light
+beanie baby
+beer keg
+blamanche
+blender
+blowdryer
+burglar alarm
+calculator
+camera
+can opener
+cartoon character
+cash printing machine
+ceiling fan
+cell phone
+clock
+clothes dryer
+clothes washer
+cocktail machine
+coffee grinder
+coffee maker
+computer
+convection oven
+copier
+crock pot
+crown
+curling iron
+daemon
+dishwasher
+disruptor
+doorbell
+dryer
+dunce's cap
+edger
+espresso maker
+fan
+fax machine
+fire alarm
+fire extinguisher
+fireplace
+flashlight
+flatscreen TV
+food processor
+football
+fork
+freezer
+furnace
+garage door
+garbage disposal
+grill
+hair clippers
+hair dryer
+headphones
+heater
+hood
+hot plate
+hula skirt
+humidifier
+ice cream maker
+imp
+iron
+kerosene heater
+knife
+lamp
+lantern
+laptop
+lawn mower
+leaf blower
+mega zord
+megaphone
+microwave oven
+mousetrap
+neutrino
+oven
+party popper
+percolator
+phaser
+plate
+postbox
+postcard
+pressure cooker
+printer
+printing press
+probe
+prom dress
+quark
+rabbit
+radio
+record player
+refrigerator
+rotisserie
+scanner
+server
+sewing machine
+smoke detector
+space station
+spoon
+stapler
+star destroyer
+starbase
+starship
+stereo
+tachyon
+taunt
+telephone
+teleporter
+television
+timer
+toaster
+toaster oven
+torch
+transformer
+trash compactor
+trimmer
+turbo mega power zord
+unicycle
+vacuum cleaner
+vaporizer
+video camera
+video game machine
+waffle iron
+walkie-talkie
+washing machine
+watch
+water heater
+website
+welly wanger
+zord

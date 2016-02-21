@@ -1,0 +1,2 @@
+%% has %2 hats on
+%2 hats%!, but one of them looks like %VAR{sillyThings}

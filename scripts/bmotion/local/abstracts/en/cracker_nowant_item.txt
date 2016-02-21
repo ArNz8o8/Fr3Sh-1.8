@@ -1,0 +1,5 @@
+%VAR{sillyThings:dislike,strip}
+a %={terrible:small:tiny:insignificant:pointless:plastic:poorly-made:surprise} %VAR{sillyThings:dislike,strip}
+a %VAR{cracker_items}
+a %VAR{scrap_adult_adjectives_t} %VAR{scrap_adult_construction_t:strip}
+a %VAR{scrap_silly_qualities} %VAR{scrap_silly_adjectives} %VAR{scrap_silly_construction}

@@ -1,0 +1,13 @@
+%VAR{sweet}.
+Can I have a %VAR{chocolates} too?
+Hell yes, %ruser's given me %VAR{sillyThings} and I can't wait to get away from it!
+I don't know, %VAR{sillyThings} from %ruser just %VAR{fellOffs}.
+No, %VAR{confuciousStart} %VAR{confuciousEnd}.
+Not until %VAR{answerWhens}.
+Ooh yes please, I've had %VAR{sillyThings} for so long it's boring me.
+Why? I've got %VAR{sillyThings}!
+Will it feel as good as %VAR{sillyThings} from %ruser?
+With %VAR{sillyThings} I have no need for anything else.
+Yes please, I left %VAR{sillyThings} in %VAR{answerWheres}.
+Yes please, the Borg Queen offered me %VAR{trekNouns} and I only got %VAR{sillyThings}.
+Yes, %VAR{confuciousStart} %VAR{confuciousEnd}.

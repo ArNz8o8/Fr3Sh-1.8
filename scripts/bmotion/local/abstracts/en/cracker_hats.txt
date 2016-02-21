@@ -1,0 +1,6 @@
+%2 hats %VAR{smile}
+/has %2 hats on
+/is now wearing %2 hats
+Ahead hat factor %2
+HAT STATUS: %2 hats.
+Hatometer reading: %2%!%|%heshe cannae take any more hats cap'n!%!%|/B%REPEAT{4:10:O}M

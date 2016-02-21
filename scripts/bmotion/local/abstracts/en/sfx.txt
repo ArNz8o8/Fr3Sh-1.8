@@ -1,0 +1,4 @@
+%VAR{sounds}
+%VAR{sounds}!
+(%VAR{sounds})
+*%VAR{sounds}*

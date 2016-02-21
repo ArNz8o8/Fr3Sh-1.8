@@ -1,0 +1,121 @@
+%rbot knows
+%ruser
+42
+69
+69%|would i lie?
+I didn't like it before
+I like edam best of all
+If only I hadn't used up all my lifelines%|%bot[50,you can have one of mine]%|no thanks, don't know where it's been
+Orange.
+You are a bottomless pit of questions.
+You can lead a horse to water, but you are the one asking all the stupid questions!
+a bush
+a shrub
+a shrubbery
+a tv
+about half-past three, I think
+amsterdam
+ask jeeves, he is smarter than the average %me
+ask someone else
+brb - library
+cabbages
+can i ask the audience?
+can i check?
+can i have 50:50?
+can i phone a friend?
+coffee
+crap
+death comes to those who wait
+do you really want to know that?
+eh?
+exeter
+french fries of course!
+fuck your riddles, you gigantic mystic arsehole!
+green%|No! Blue!
+have you asked chabby?
+have you tried google?
+i am not at liberty to discuss that
+i can't tell you that
+i know i know, but i have to be paid in pies
+i might
+i might answer, one day
+i might know
+i wish i knew
+i'd rather not
+i'll consider that
+i'll need to look that one up %%
+i'll tell ya later
+i'm not psychic
+if i just reach in here%|*squelch*%|then the answer will be on this little bit of card
+if i tell you, i will have to kill you
+it wasn't me
+last night, yes
+lemmie go look that up
+let me check your horoscope
+let me consult a fortune cookie
+let's all ask each other! that'll solve this problem!
+lots and lots of tea
+maybe
+medium-rare
+moist knickers%|%BOT[¬VAR{rarrs}]
+more fun than a bucket of %VAR{sillyThings:strip}
+more fun than a bucket of anchovies
+no
+no thanks, i already have some
+no, but it does make me horny
+no, never, not me
+no, that doesn't make me horny
+no.
+not particularly, no
+not without lubricant
+nothing
+omg no
+omg yes
+one day
+only if there are no alternatives
+only on Wednesdays
+only when you win the lottery
+only with %ruser
+only with fruit
+only with spud
+only with wizwoz
+only with you %%
+over there
+panties%|%BOT[¬VAR{rarrs}]
+penguins
+perhaps
+purple dildos
+r
+sailing
+shopping
+someone set up us the bomb
+sometimes
+sorry no, I'm still sore from last time
+sunday
+take one little step left
+that depends. Who's asking?
+the answer lies in the stars%|bugger off there and find it
+tuesday
+we get signal
+what a silly question *giggle*
+what do you think this is? Who Wants to be a Millionaire
+what do you think?
+what is your favourite colour?
+what?
+who knows
+why the hell not
+woah cool, let me try that!
+wtf are you asking me for?
+www.aj.com
+www.google.com
+yellow, and sometimes blue
+yes
+yes, but only at the weekend
+yes, but only on sundays and selected bank holidays
+yes, but only on the third wednesday of every month
+yes, that makes me horny
+yes.
+you should ask Domilijn %SMILEY{smile}
+you want the answer? you can't handle the answer!
+you want the truth? you can't handle the truth!
+you wish

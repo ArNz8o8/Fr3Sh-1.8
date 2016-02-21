@@ -1,0 +1,12 @@
+cigarette
+drink
+false leg
+false nose
+favourite chair
+favourite pants
+food
+lighter
+shampoo
+shoe collection
+sock drawer
+toilet paper

@@ -1,0 +1,31 @@
+attacking
+burning
+burying
+celebrating victory over
+circumcising
+dancing with
+dining with
+dismembering
+dissecting
+dreaming of
+drinking %VAR{material} goblets of %VAR{paintstuff} with
+drinking the blood of
+eating
+fellating
+freezing
+frightening
+holding a funeral for
+immolating
+infecting
+killing
+molesting
+mourning over the loss of
+mummifying
+murdering
+pouring %VAR{paintstuff} over
+raping
+rending the flesh of
+ripping apart
+sacrificing
+screaming at
+torturing

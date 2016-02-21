@@ -1,0 +1,5 @@
+%VAR{harhars}
+%VAR{thanks}
+this victory strengthens the soul of %me!
+victory for %me%colen
+wh%REPEAT{2:6:e}! do I get %VAR{sillyThings} now?

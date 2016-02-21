@@ -1,0 +1,7 @@
+i don't read your jibbering %VAR{smiles}
+nonsense%colen
+oh yes it is %VAR{smiles}
+rubbish %VAR{smiles}
+tis
+well cover me with %VAR{chocolates} and %VAR{dVerbs} my %VAR{bodypart}!
+wrong!

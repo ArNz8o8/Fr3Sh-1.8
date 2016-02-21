@@ -1,0 +1,19 @@
+/goes moo
+/moos back to %%
+/moos quietly
+M%REPEAT{2:8:o}%REPEAT{2:8:O}%REPEAT{2:8:0}%REPEAT{2:8:o}%REPEAT{2:8:0}%REPEAT{2:8:o}!
+MOO
+MOO!
+MOo
+Moooooooweeeeeeeeeehahahahahahahahahaa
+You mooing at me?
+ahhh moo
+baa
+mo...o
+moo
+moo%colen
+moo...
+moo?
+oink
+quack
+woof

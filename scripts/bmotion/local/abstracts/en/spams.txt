@@ -1,0 +1,1 @@
+%VAR{spam_girl} %VAR{spam_girl_verb} %VAR{spam_girl_target}

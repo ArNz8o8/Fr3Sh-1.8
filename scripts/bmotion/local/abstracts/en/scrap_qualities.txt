@@ -1,0 +1,31 @@
+amateur
+as-seen-on-TV
+average
+bad
+broken
+cheap
+excellent
+expensive
+fair
+first rate
+good
+irrepairable
+legendary
+master crafted
+normal
+novice
+ok
+passable
+perfect
+poor
+premium
+pro
+professional
+quality
+shoddy
+super
+superior
+terrible
+ultimate
+very average
+very bad

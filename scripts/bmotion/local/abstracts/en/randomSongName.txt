@@ -1,0 +1,14 @@
+%VAR{sillyThings:plural,strip} of desire
+%VAR{sounds} %VAR{sounds} %VAR{sounds}
+God Save the Queen
+Hurt
+I Hate Myself and I Want to Die
+Untitled Track %NUMBER{100}
+fade to %VAR{basic_colours}
+music for %VAR{sillyThings:plural,strip}
+ode to %ruser
+requiem for %VAR{sillyThings}
+shake your %VAR{bodypart:bothmixin}
+that song about %VAR{sillyThings}
+the Doom Song
+the sound of one hand clapping

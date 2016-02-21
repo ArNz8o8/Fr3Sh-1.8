@@ -1,0 +1,19 @@
+A Bird in the Hand
+A Dangerous Assignment
+A Substantial %VAR{sillyThings:strip,camel}
+A Substantial Gift
+Dead Men Don't %VAR{sillyVerbs:camel}
+Dead Men Don't Laugh
+Operation Undercover
+Rendezvous at Big Gulch
+Revenge and Remorse
+Ring of Fear
+Terror in the Neighbourhood
+Terror in the Night
+Testimony of Evil
+The Butler Did It
+The Guilty Alibi
+The Heat Thickens
+The Secret Assignment
+There Go My %VAR{clothes:plural,strip,camel}!
+There Go My Trousers

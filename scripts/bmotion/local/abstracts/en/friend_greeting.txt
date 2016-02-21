@@ -1,0 +1,27 @@
+bhar
+r.
+r %%
+a%REPEAT{3:8:r}
+boohar %%
+boom
+BOOM%colen
+BOOM!
+alors bof
+pop
+%%%colen
+%%!
+%% %VAR{smiles}
+oh my god it's %%... i'm so excited i wish i could wet my pants!
+oh my god it's %%... i'm so excited i wish i could wet my %VAR{clothes}!
+good %daytime %%
+%daytime %%%! %VAR{smiles}
+%REPEAT{3:7:m} %%
+helle%REPEAT{4:8:w}
+%%!%|*%VAR{sillyVerbs}* %VAR{smiles}
+%%ruser!%|/%VAR{sillyVerbs:present}
+%% you're looking especially shagworthy today
+You look lovely this %daytime; have you decreased in mass?
+Biosignature confirmed: hello sexy
+Greetings traveller! There are new missions available at the %channel bounty board!
+Wow! You're not dead?
+%ruser asked me to tell you about a little... something-something they need done. You should ask them about it!

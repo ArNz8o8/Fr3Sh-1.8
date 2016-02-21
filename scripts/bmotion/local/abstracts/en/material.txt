@@ -1,0 +1,9 @@
+%VAR{metal}
+%VAR{paintbodyparts}
+brimstone
+concrete
+glass
+metal
+obsidian
+stone
+wood

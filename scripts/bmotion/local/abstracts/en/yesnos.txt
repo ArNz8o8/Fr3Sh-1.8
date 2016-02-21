@@ -1,0 +1,2 @@
+%VAR{nos}
+%VAR{yeses}

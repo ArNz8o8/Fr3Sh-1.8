@@ -1,0 +1,2 @@
+%VAR{abbr_adj}
+%VAR{abbr_adult_adj_t}

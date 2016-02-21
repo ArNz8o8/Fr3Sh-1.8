@@ -1,0 +1,3 @@
+haha, you have no hats%! and everyone else has like %NUMBER{100}000 each
+no hats for you %SMILEY{sad}%!%|/hugs %%
+none

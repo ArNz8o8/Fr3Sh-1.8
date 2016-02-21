@@ -1,0 +1,2 @@
+%VAR{scrap_qualities}
+%VAR{scrap_silly_qualities_t}

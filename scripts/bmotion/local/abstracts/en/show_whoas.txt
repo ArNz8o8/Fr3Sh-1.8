@@ -1,0 +1,6 @@
+I say
+hohoho
+my word
+wh%REPEAT{3:6:e}
+whoa
+wow

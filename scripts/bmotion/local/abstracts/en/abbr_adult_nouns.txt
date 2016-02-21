@@ -1,0 +1,2 @@
+%VAR{abbr_adult_nouns_t}
+%VAR{abbr_nouns}

@@ -1,0 +1,4 @@
+%VAR{amount} %VAR{nice_paintbodyparts}
+%VAR{amount} %VAR{nice_things}
+%VAR{nice_fulladjectives} %VAR{nice_paintbodyparts}
+%VAR{nice_fulladjectives} %VAR{nice_things}

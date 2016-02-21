@@ -1,0 +1,2 @@
+%VAR{satOns}
+%VAR{shocked}

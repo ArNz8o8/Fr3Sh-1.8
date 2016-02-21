@@ -1,0 +1,9 @@
+I think I heard that
+er,
+it could be that
+last time I knew,
+ok, I'll tell you that
+well,
+well, don't tell anyone, but%REPEAT{3:7:.}
+well, don't tell anyone, but.......
+last time I knew, 

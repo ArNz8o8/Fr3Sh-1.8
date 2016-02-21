@@ -1,0 +1,4 @@
+%% < %VAR{sillyThings:strip}
+%%++
+%VAR{sillyThings:strip} > %%
+mm%REPEAT{1:5:m}, %VAR{sillyThings:strip}

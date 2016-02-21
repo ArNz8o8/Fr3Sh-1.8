@@ -1,0 +1,7 @@
+%REPEAT{3:10:ha}
+%REPEAT{3:10:ha}%|I don't get it.
+%VAR{smiles}
+...
+?
+lol
+what

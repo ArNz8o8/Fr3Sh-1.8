@@ -1,0 +1,2 @@
+%VAR{captains_log_sensible}
+%VAR{captains_log_sensible} %VAR{captains_log_silly}

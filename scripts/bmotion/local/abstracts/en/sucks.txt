@@ -1,0 +1,2 @@
+%% = %VAR{PROM}
+%% is a pile of %VAR{prom_first}

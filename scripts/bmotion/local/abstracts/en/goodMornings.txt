@@ -1,0 +1,6 @@
+%daytime %%
+*yawn*
+G'day
+What time do you call this?
+good %daytime %%
+r

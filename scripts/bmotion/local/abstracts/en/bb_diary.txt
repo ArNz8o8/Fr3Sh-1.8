@@ -1,0 +1,12 @@
+%ruser
+biscuits
+how much they like %VAR{sillyThings:strip}
+how much they like %me
+how much they like the %VAR{bb_places}
+nominations
+nuclear physics
+quantum mechanics
+shoes
+string theory
+their %VAR{bodypart:nomixin}
+their %VAR{colours} %VAR{bodypart:nomixin}

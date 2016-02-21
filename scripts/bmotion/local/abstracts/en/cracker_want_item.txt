@@ -1,0 +1,4 @@
+%={large:giant:supersize:XXL:extra-medium:boring:significant:metal:well-manufactured} %VAR{sillyThings:like,strip}
+%VAR{scrap_adult_adjectives_t} %VAR{scrap_adult_construction_t:strip}
+%VAR{scrap_silly_qualities} %VAR{scrap_silly_adjectives} %VAR{scrap_silly_construction}
+%VAR{sillyThings:like,strip}

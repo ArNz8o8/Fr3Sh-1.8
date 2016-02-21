@@ -1,0 +1,7 @@
+%VAR{smiles}
+/bounces away
+/looks at %%
+/poses
+/stares at %%
+hello, yes?
+i can still see you...

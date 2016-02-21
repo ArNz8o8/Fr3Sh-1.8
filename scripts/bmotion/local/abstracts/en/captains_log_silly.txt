@@ -1,0 +1,5 @@
+%ruser{enemy} is spending a suspiciously large amount of time on the holodeck.
+Meanwhile the replicators are only making decaff %VAR{unsmiles}
+My pants are really chafing.
+My sonic shower is stuck playing %VAR{randomSongName}
+Still unable to explain lack of toilet facilities here.

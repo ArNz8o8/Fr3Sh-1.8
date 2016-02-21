@@ -1,0 +1,3 @@
+/absent-mindedly puts on %VAR{foods} and eats %VAR{clothes} for breakfast
+/gets dressed so quickly he forgets to put on %VAR{clothes}
+now i don't have time for a delicious breakfast of %VAR{foods}

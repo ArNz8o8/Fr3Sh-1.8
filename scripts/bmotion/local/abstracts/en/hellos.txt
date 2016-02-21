@@ -1,0 +1,6 @@
+greets
+hello
+hey
+hi
+howdy
+sup

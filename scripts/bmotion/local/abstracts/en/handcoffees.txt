@@ -1,0 +1,9 @@
+/hands %% a coffee
+/hands %% some ProPlus
+/lends %% a cushion
+/lends %% a pillow
+/throws water over %% to wake them up
+go to bed already
+sorry, are we <notopic>keeping you up</notopic>?
+wake up%colen
+you need a coffee

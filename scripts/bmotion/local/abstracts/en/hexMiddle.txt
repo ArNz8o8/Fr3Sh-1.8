@@ -1,0 +1,26 @@
+%VAR{sillyThings:strip}
++MELON+
+Anthill Inside
+Archive Reference
+Cheese Error
+Conjuring
+Enchantment
+Eternal Domain
+FTB
+Flux
+GBL
+Here Comes The Cheese
+Hive Interface
+Influx
+Line %NUMBER{10000}
+Line 666
+Nether Realm
+Octagram
+Octarine
+Ow
+Paradox Shifting
+Phase Of Moon Generator
+Sixth Dimension
+Teatime
+Thaumic Disturbance
+Unreal Time Clock

@@ -1,0 +1,10 @@
+Day %NUMBER{500} %VAR{bb_time}: %ruser had a dream about %VAR{nightmare}. %ruser hides in the %VAR{bb_room}
+Day %NUMBER{500} %VAR{bb_time}: %ruser has been crying in the %VAR{bb_room} for %NUMBER{100} minutes
+Day %NUMBER{500} %VAR{bb_time}: %ruser has hidden %OWNER{%ruser} %VAR{bb_posession} in %VAR{bb_hide}
+Day %NUMBER{500} %VAR{bb_time}: %ruser is in the %VAR{bb_places}. The other housemates are in the %VAR{bb_places}, talking about %OWNER{%ruser{prev}} %VAR{bodypart:nomixin}
+Day %NUMBER{500} %VAR{bb_time}: %ruser is in the diary room, talking to Big Brother about %VAR{bb_diary}
+Day %NUMBER{500} %VAR{bb_time}: Big Brother has given the housemates %NUMBER{50} %VAR{sillyThings:plural,strip} and challenged them to build %VAR{sillyThings}
+Day %NUMBER{500} %VAR{bb_time}: Big Brother has given the housemates %NUMBER{50} %VAR{sillyThings:plural,strip} and challenged them to build %VAR{sillyThings}. %ruser has been crying in the %VAR{bb_places} for %NUMBER{30} minutes.
+Day %NUMBER{500} %VAR{bb_time}: Big Brother has locked %ruser in the %VAR{bb_places} for %VAR{bb_naughty}
+Day %NUMBER{500} %VAR{bb_time}: Big Brother has set the housemates a %VAR{bb_task} task
+Day %NUMBER{500} %VAR{bb_time}: This week, %ruser, %ruser and %ruser are all up for eviction

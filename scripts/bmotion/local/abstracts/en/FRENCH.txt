@@ -1,0 +1,1 @@
+%VAR{french1} %VAR{french2} %VAR{french3}

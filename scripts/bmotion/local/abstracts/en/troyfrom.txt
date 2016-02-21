@@ -1,0 +1,3 @@
+such TV events as %VAR{troytv1} and %VAR{troytv2}
+such educational films as %VAR{troyinfo1} and %VAR{troyinfo2}
+such films as %VAR{troyfilm1} and %VAR{troyfilm2}

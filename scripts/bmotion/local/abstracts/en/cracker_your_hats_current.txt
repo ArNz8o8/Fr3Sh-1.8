@@ -1,0 +1,5 @@
+%2 hats and %VAR{sillyThings}
+%2 hats%!,but one of them looks like %VAR{sillyThings}
+%2, silly
+%2, silly%|can't you tell?
+You've got %2 hats on!

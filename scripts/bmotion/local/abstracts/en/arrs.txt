@@ -1,0 +1,12 @@
+a%REPEAT{2:5:r}
+a%REPEAT{2:5:r} %%
+a%REPEAT{3:5:r}ha%REPEAT{3:6:r}
+a%REPEAT{3:5:r}ha%REPEAT{3:6:r} %%
+bhar
+bhar %%
+boohar
+boohar %%
+graha%REPEAT{3:5:r}
+graha%REPEAT{3:5:r} %%
+r
+r %%

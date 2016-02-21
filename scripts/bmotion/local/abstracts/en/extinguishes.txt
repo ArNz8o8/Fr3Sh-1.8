@@ -1,0 +1,7 @@
+%VAR{shocked}
+/laughs%|%BOT[¬VAR{unsmiles}]
+/pours water on %%
+/puts %% out
+/wraps %% in a fire blanket
+kaBLAM
+taunt

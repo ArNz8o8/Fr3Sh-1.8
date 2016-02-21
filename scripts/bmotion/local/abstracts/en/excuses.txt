@@ -1,0 +1,1 @@
+%VAR{excuse_verbs} %VAR{excuse_people} %VAR{excuse_nouns}

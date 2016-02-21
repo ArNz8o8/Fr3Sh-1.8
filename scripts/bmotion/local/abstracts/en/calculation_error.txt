@@ -1,0 +1,5 @@
+%% = %VAR{colours}
+%% = yo momma
+%% == minus %VAR{sillyThings:strip}
+%% is%|er%|dunno %VAR{smiles}
+/shrug

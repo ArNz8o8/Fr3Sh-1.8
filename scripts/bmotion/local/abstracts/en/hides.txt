@@ -1,0 +1,9 @@
+/duck-and-covers
+/ducks
+/hides
+/hides behind %ruser
+/legs it
+/runs for the hills
+Don't be so silly.
+Look over there!%|/runs
+eek!%|/runs for it

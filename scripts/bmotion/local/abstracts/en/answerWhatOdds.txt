@@ -1,0 +1,9 @@
+%NUMBER{10000} to one
+%VAR{ers}... one to something really, really big?
+I'm not an expert on that%|%BOT[75,but I am! it's, %VAR{ers}, one to %NUMBER{100000}!]
+about a snowball's chance in hell
+calculating...%|%VAR{sounds} %VAR{sounds} %VAR{sounds}%|%VAR{hexStart} %VAR{hexMiddle} %VAR{hexEnd}
+one in a million
+one to %NUMBER{10000}
+that depends entirely on %VAR{sillyThings}
+that depends. is %ruser involved?

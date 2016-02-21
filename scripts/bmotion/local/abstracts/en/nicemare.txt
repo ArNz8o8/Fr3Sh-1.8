@@ -1,0 +1,81 @@
+a %VAR{nice_fullbeings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeings}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeings} with a %VAR{nice_fullthings}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace} with a %VAR{nice_fullthings}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing} with a %VAR{nice_fullthings}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_selfverb}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthings}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthing}
+a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_beingverb} a %VAR{nice_fullbeings}
+a %VAR{nice_fullbeings} %VAR{nice_beingverb} a %VAR{nice_fullbeing}
+a %VAR{nice_fullbeings} %VAR{nice_beingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_beingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_selfverb}
+a %VAR{nice_fullbeings} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_thingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_thingverb} a %VAR{nice_fullthings}
+a %VAR{nice_fullbeings} %VAR{nice_thingverb} a %VAR{nice_fullthings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} %VAR{nice_thingverb} a %VAR{nice_fullthing}
+a %VAR{nice_fullbeings} %VAR{nice_thingverb} a %VAR{nice_fullthing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_selfverb}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeings} %VAR{nice_selfverb}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeings} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_selfverb}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeing} %VAR{nice_selfverb}
+a %VAR{nice_fullbeings} and a %VAR{nice_fullbeing} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeings}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeings} with a %VAR{nice_fullthing}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace} with a %VAR{nice_fullthing}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullbeing} with a %VAR{nice_fullthing}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_beingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthings}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthing}
+a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_thingverb} a %VAR{nice_fullthing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_beingverb} a %VAR{nice_fullbeings}
+a %VAR{nice_fullbeing} %VAR{nice_beingverb} a %VAR{nice_fullbeing}
+a %VAR{nice_fullbeing} %VAR{nice_beingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_beingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_thingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_thingverb} a %VAR{nice_fullthings}
+a %VAR{nice_fullbeing} %VAR{nice_thingverb} a %VAR{nice_fullthings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} %VAR{nice_thingverb} a %VAR{nice_fullthing}
+a %VAR{nice_fullbeing} %VAR{nice_thingverb} a %VAR{nice_fullthing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_selfverb}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeings} %VAR{nice_adverb} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeings} %VAR{nice_selfverb}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeings} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_selfverb}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeing} %VAR{nice_adverb} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeing} %VAR{nice_selfverb}
+a %VAR{nice_fullbeing} and a %VAR{nice_fullbeing} %VAR{nice_selfverb} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullplace}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullbeings}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullbeing}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullthings}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullthings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullthing}
+a %VAR{nice_fullthings} %VAR{nice_thingverb} a %VAR{nice_fullthing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullbeings}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullbeing}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullbeing} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullplace}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullthings}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullthings} %VAR{inon} a %VAR{nice_fullplace}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullthing}
+a %VAR{nice_fullthing} %VAR{nice_thingverb} a %VAR{nice_fullthing} %VAR{inon} a %VAR{nice_fullplace}

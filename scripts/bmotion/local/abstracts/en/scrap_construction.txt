@@ -1,0 +1,56 @@
+4X4
+APC
+aeroplane
+air cannon
+barge
+bolt cutter
+bunker
+bus
+cable car
+car crusher
+catapult
+combine harvestor
+crop duster
+digger
+dodgem
+drag racer
+fan
+generator
+glider
+go kart
+golf-ball-driver
+grenade launcher
+gyroscope
+helicopter
+hovercraft
+jet-ski
+keyboard
+landing craft
+liquid transporter
+lorry
+missile
+monorail
+monowheel
+monster truck
+motorbike
+pillbox
+pistol
+projector
+raft
+railroad racer
+rifle
+rocket
+satellite
+scooter
+shield
+signal flare
+sledge
+submarine
+sword
+torpedo
+tractor
+train
+truck
+tug
+wagon
+wood cutter

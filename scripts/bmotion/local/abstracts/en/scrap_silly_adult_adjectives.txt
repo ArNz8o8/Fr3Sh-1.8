@@ -1,0 +1,2 @@
+%VAR{scrap_adjectives}
+%VAR{scrap_silly_adjectives_t}

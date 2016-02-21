@@ -1,0 +1,9 @@
+%NUMBER{1000} years
+%NUMBER{365} days
+%NUMBER{60} minutes
+%NUMBER{60} seconds
+all my life
+all your life
+as long as I can hold my breath
+six to eight weeks, usually
+until something explodes

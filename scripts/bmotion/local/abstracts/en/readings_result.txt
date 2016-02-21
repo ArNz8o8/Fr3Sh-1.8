@@ -1,0 +1,2 @@
+%%: That reads as %NUMBER{10000} %VAR{units}.
+%SETTING{complex:readings:reading:reading:_} levels of %NUMBER{101} percent detected.

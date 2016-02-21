@@ -1,0 +1,4 @@
+I hear you do books by %VAR{answerWhos}, can you sell me one?
+I just bought %VAR{tech_software} and I can't get it to %VAR{tech_problem}, I've tried %VAR{tech_tries} and it still won't work
+I need a bit of software to %VAR{tech_functions} %VAR{sillyThings}
+I've just got %VAR{tech_software}, and it won't %VAR{tech_problem}. I've tried everything including %VAR{tech_tries} but nothing helps

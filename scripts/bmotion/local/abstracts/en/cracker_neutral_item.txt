@@ -1,0 +1,5 @@
+%={boring:average:medium} %VAR{sillyThings:strip}
+%VAR{scrap_adjectives} %VAR{scrap_construction:strip}
+%VAR{scrap_adult_adjectives_t} %VAR{scrap_adult_construction_t:strip}
+%VAR{scrap_silly_qualities} %VAR{scrap_silly_adjectives} %VAR{scrap_silly_construction}
+%VAR{sillyThings:strip}

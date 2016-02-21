@@ -1,0 +1,4 @@
+%VAR{nice_fulladjective} %VAR{nice_place}
+%VAR{nice_fulladjective} %VAR{nice_place} of %VAR{material}
+%VAR{nice_place}
+%VAR{nice_place} of %VAR{material}

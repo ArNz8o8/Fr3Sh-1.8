@@ -1,0 +1,10 @@
+bright
+brilliant
+dark
+day-glow
+faint
+metallic
+mottled
+pale
+shimmering
+shining

@@ -1,0 +1,5 @@
+Today's forecast is %VAR{weathertypes}
+Today's forecast is %VAR{weathertypes} with a %NUMBER{100}%percent chance of %VAR{sillyThings:strip}
+Today's forecast is %VAR{weathertypes} with a %NUMBER{100}%percent chance of %VAR{sillyThings:strip} moving in from the %VAR{compass}
+Today's forecast is %VAR{weathertypes} with a %NUMBER{100}%percent chance of %VAR{weathertypes}
+Today's forecast is %VAR{weathertypes} with a %NUMBER{100}%percent chance of %VAR{weathertypes} moving in from the %VAR{compass}

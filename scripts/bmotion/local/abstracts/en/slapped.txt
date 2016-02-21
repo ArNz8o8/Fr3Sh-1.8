@@ -1,0 +1,10 @@
+%={ow:arrgh} my %VAR{bodypart}! now i only have %NUMBER{50} left
+%={ow:arrgh} my %VAR{bodypart}! now i only have %NUMBER{50} left%|look, here in this box
+%={ow:arrgh}! my %VAR{bodypart}!%! that was my %VAR{counts} one
+%VAR{frightens}
+/%VAR{smacks} %% back with %VAR{sillyThings}
+/%VAR{smacks} %% back with %ruser
+a%REPEAT{3:6:r}gh my %VAR{bodypart}! now i only have %NUMBER{50}%NUMBER{100}%NUMBER{100} left%|look, here in this warehouse
+ow hey! that was my %VAR{counts} %VAR{bodypart} %VAR{unsmiles}
+ow! that was my %VAR{counts} %VAR{bodypart} %VAR{unsmiles}
+they took my squeezing arm!%|WHY MY SQUEEZING ARM?!?%|WHHHYYYYY?

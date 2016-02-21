@@ -1,0 +1,4 @@
+%REPEAT{3:6:m} %%
+%VAR{thanks}
+Do I want this?
+Just what I've always wanted %VAR{smiles}

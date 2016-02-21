@@ -1,0 +1,2 @@
+%VAR{scrap_power_adjectives}
+%VAR{scrap_silly_power_adjectives_t}

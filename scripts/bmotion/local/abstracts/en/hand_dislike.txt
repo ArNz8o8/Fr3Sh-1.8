@@ -1,0 +1,10 @@
+/jams it up %2%|do not want
+/jams it up %hisher arse%|that's what i think of that.
+/throws it at %ruser{enemy}
+/throws it in the bin
+/wipes %hisher %VAR{bodypart} with it
+do i want this?
+do not want
+erk not %%
+oh no %%
+thanks very much%|except I hate these

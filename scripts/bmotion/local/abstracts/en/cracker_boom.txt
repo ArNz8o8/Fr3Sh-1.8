@@ -1,0 +1,5 @@
+%VAR{booms}
+%VAR{booms} %SMILEY{bigsmile}
+%VAR{sfx}
+%VAR{sfx} %SMILEY{smile}%!%|what a %={funny:normal} sounding cracker
+%VAR{sfx} %VAR{surprises}%!%|what a %={unexpected:weird:strange:odd} sounding cracker

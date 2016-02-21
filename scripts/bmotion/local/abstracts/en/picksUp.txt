@@ -1,0 +1,3 @@
+/gives %% a hand
+/helps %% back off the ground
+/picks up %%

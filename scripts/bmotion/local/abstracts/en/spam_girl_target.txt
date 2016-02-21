@@ -1,0 +1,2 @@
+%VAR{spam_boy:owner} %VAR{spam_boybits}
+%VAR{spam_girl:owner} %VAR{spam_girlbits}

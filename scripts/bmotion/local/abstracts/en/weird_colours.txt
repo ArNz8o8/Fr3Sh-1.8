@@ -1,0 +1,12 @@
+chartreuse
+cobalt
+cornflower blue
+crimson
+cyan
+magenta
+mauve
+ochre
+scarlet
+taupe
+teal
+turquoise

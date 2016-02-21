@@ -1,0 +1,4 @@
+bye %%
+i like them %VAR{smiles}
+i wish they didn't have to go %VAR{unsmiles}
+mmm %%

@@ -1,0 +1,2 @@
+%VAR{nice_being}
+%VAR{nice_fulladjective} %VAR{nice_being}

@@ -1,0 +1,4 @@
+covered with %VAR{mands_cover}
+drizzled with %VAR{mands_sauce}
+sprinkled with %VAR{mands_sprinkle}
+with stain digestors and superior performance at 30 degrees

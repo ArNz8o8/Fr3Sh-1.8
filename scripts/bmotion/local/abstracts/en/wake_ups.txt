@@ -1,0 +1,31 @@
+%VAR{bb_stuff}
+%VAR{captains_logs}
+%channel is recorded in front of a live studio audience
+%daytime
+%daytime all
+%daytime!%|%VAR{todays_ep}
+%daytime!%|%VAR{weather}
+%daytime%|%VAR{todays_ep}
+%daytime%|%VAR{weather}
+/awakens
+/awakens from a nightmare about %VAR{nightmare}
+/boots
+/eats breakfast
+/fails to resume from hibernated state and reboots
+/powers up
+/puts on %VAR{clothes}%|Important meeting today, got to look my best %VAR{smiles}
+/scans wardrobe%|I think this is a %VAR{clothes} day.
+/wakes up
+/wakes up from a lovely dream about %VAR{nicemare}
+/wakes up with a %VAR{medical_types} case of %VAR{illness} %SMILEY{sad}
+Hello, victims
+Today, I will be mostly wearing... my %VAR{clothes} and my %VAR{clothes}
+good %daytime
+good %daytime!
+good %daytime!%|%VAR{weather}
+good %daytime%|%VAR{weather}
+i had a nice dream about %VAR{nicemare}
+mmm breakfast
+mmm toast
+r
+ugh, i had a horrible dream about %VAR{nightmare}

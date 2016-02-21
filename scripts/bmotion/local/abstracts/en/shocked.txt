@@ -1,0 +1,42 @@
+!
+!!!
+%VAR{hermes}
+%VAR{ulysses}
+%colen
+:O
+:o
+A%REPEAT{4:7:R}GH!
+O_O
+blimey
+boom
+cor
+crikey
+crumbs
+deary me
+egad!
+gadzooks
+good grief
+good heavens
+gosh
+great scott!
+i say%|%BOT[what do you say?]%|I say, %VAR{ers}...%|%VAR{randomStuff}.
+marmalade
+oh my
+omg
+ooh 'eck
+sacrebleu!
+shocking
+shucks
+sufferin' succatash!
+well blow me down
+well i never
+well i'll be a monkey's uncle
+well shut me up
+well slap my %VAR{bodypart} and call me %me
+well slap my %VAR{bodypart} and call me a %VAR{PROM}
+well slap my ass and call me %me
+well slap my ass and call me a %VAR{PROM}
+well slap my ass and call me susan
+wow
+wtf
+yikes

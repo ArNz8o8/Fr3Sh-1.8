@@ -1,0 +1,9 @@
+%REPEAT{4:7:bl}
+hey
+heya
+hi
+pop
+re
+wb
+welcome back
+you're back!

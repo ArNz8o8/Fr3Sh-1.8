@@ -1,0 +1,7 @@
+%VAR{noun_swearing}
+horrible
+lovely
+minging
+nice
+space
+surprise

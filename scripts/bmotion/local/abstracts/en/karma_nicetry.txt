@@ -1,0 +1,3 @@
+karma for %% is now negative %NUMBER{100} billion
+nice try
+no.

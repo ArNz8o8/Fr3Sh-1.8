@@ -1,0 +1,2 @@
+i %VAR{sillyVerbs:past} it %VAR{smiles}
+i %VAR{sillyVerbs:past} it %VAR{unsmiles}

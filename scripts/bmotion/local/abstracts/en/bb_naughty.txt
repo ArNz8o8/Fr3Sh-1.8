@@ -1,0 +1,5 @@
+discussing nominations
+eating all the food
+failing the %VAR{bb_task} task
+talking about the outside world
+urinating in the %VAR{bb_places}

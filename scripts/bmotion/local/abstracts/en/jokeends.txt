@@ -1,0 +1,1 @@
+Confucious say, %VAR{confuciousStart} %VAR{confuciousEnd}

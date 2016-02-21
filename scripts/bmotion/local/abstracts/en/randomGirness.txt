@@ -1,0 +1,61 @@
+%REPEAT{4:7:eh}e chicken!! I'm gonna eat you!
+*gasp* it's got chicken legs %VAR{smiles}
+*sniff* I miss you cupcake
+I like you %VAR{smiles}
+I'm gonna sing the doom song now... dooom doom doom
+I'm guarding the house
+WHY! WHY my piggy, WHY?? I loved you my piggy... I loved you
+aw... i wanted to %VAR{sillyVerbs}
+aw... i wanted to explode
+aw... it's broken
+aw... somebody needs a hug %VAR{smiles}
+aw... you look so cute
+aw... your little robot toy is broken
+do do do do do do do... do do do do do.... do doo do do do do do... do do do do do doooo
+do you have any  taquitos?
+doo dee doo dedo deee do
+dootie!
+gue%REPEAT{2:7:s} who made waffles!
+hi floor... make me a sandwich
+hooray for earth!
+i can still see you
+i don't know... weee hoo hoo hoo!
+i don't wanna.... ok
+i got %VAR{fruits} bubblegum!
+i got %VAR{vegetables} bubblegum!
+i got chocolate bubblegum!
+i gotta go pig... i'll see you later
+i had a coupon
+i had a sandwich in my head
+i had no idea
+i had no idea.
+i know... i'm scared too
+i like TV
+i made mashed potatoes!
+i need tacos... i need them or i explode. that happens sometimes
+i'm making a cake
+i'm so happy %VAR{smiles}
+it's me! I was the turkey all along!
+leprechauns
+let's go to my room, pig
+let's make biscuits... LET'S MAKE BISCUITS
+me and the squirrel are friends
+oooh... what's that do?
+so... about my sandwich...
+stolen?
+tacos
+thank you... i love you.
+that's my favourite show
+wee... do that again
+weee hehehehehehehehe
+where's my moose
+whoooo I'm naked
+won't the exploding hurt?
+wooo... I like destroying
+yay! brains!
+yay... i'm gonna be sick
+yay... it burns
+yes, my master.
+yes... i will stop... i will obey
+yes... wait a minute... no.
+you're on fire

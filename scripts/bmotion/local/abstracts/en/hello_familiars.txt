@@ -1,0 +1,6 @@
+%% :D
+%% ^_^
+%%!
+%%%colen
+/hugs %%
+r %VAR{smiles}

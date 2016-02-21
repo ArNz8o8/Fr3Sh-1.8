@@ -1,0 +1,28 @@
+%REPEAT{3:8:m} %={electronical things:internet:breasts:jugs}
+/considers sexchange operation%|/looks at %ruser{female}%|Maybe not
+Come on baby, let's go play %VAR{sillyThings:strip} and guy who has sex with %VAR{sillyThings:prev,plural}!
+Come on baby, let's go play schoolgirl and guy who has sex with schoolgirls!
+Est-ce que je peux venir maintenant?%|%BOT[Non, attends.]%|Trop tard%|Desole pour ta robe
+Ha ha! Body in a woodchipper.
+Ha ha! Multiple entendre!
+Huh? Mmph? LOL! Buffer overrun! *pant*
+I always thought the most sensual part of a woman was the %VAR{bodypart:female_mixin}%|mmm... %ruser{female}%VAR{bodypart:prev,plural}
+I can finally build that lakehouse, and I'll run around naked all day. Ha ha... dangly parts.
+I don't know how that got in there. It's not mine.
+I don't think there's enough room in here for me and my thingy%|/removes thingy and sits in the other room
+It's good to be male isn't it %ruser{male}
+Looks like the squirrel's been showing everyone where he keeps his nuts.
+May I come now?%|%BOT[No, wait]%|Too late.%|Sorry about your dress
+My office! Burgled! Plundered! Purloined! Ha, ha... loins
+Shake hand, Kiss baby, Shake hand, kiss baby, Shake hand, Kiss hand, Shake baby, Shake baby, Kiss hand, Shake baby, Shake baby, kiss hand.
+That ain't my finger
+Then I call the cops and jack off as the ambulance shows up
+These girls are ace. And their racoon is ace.
+To die, to sleep. To sleep, perchance to dream. Aye, there's the rub. Ha ha!... rub.
+Yeah baby yeah!
+You wanna see some stuff I'm not supposed to show anyone?
+hi %ruser! I'm miniature superman!%|no %ruser{prev}, don't touch me there!%|n%REPEAT{5:15:o}! %VAR{unsmiles}
+i think %VAR{sillyThings:plural} should have holes you can put your cock in
+no touchy touchy%|no rubby rubby patty%|and no looky looky touchy
+so i couldn't tell what it was and it smelled really bad but i ate it anyway%|then i just licked my balls until they hurt
+this isn't even the whole outfit! wait till you see my sack!

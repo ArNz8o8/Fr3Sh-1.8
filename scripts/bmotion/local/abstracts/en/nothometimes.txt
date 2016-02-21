@@ -1,0 +1,5 @@
+nope, not for another %NUMBER{24} hours
+not until you've finished %VAR{jobtasks}
+not yet
+sure, why not
+yes. I just called your boss and it's fine

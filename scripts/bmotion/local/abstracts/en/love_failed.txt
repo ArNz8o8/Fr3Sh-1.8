@@ -1,0 +1,5 @@
+/pushes %% away
+get away from me
+go away
+shame, because i think you're a smelly %VAR{bodypart}
+shove off you %VAR{PROM}

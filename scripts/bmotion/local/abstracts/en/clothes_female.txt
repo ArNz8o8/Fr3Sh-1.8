@@ -1,0 +1,33 @@
+G-string
+ballgown
+bikini
+bloomers
+bonnet
+bra
+burqa
+catsuit
+cocktail dress
+corset
+crop top
+dress
+frock
+girdle
+halter top
+hijab
+knickers
+leg warmers
+leotard
+little black dress
+loose socks
+miniskirt
+negligee
+petticoat
+shoulder pads
+skirt
+skort
+stockings
+suspenders
+swimsuit
+thong
+tights
+wedding dress

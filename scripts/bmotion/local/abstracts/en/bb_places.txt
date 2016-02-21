@@ -1,0 +1,9 @@
+bathroom
+bedroom
+diary room
+dining area
+garden
+kitchen
+lounge
+secret %VAR{bb_places}
+shower

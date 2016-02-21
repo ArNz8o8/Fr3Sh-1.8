@@ -1,0 +1,4 @@
+%VAR{sound_short}
+%VAR{sound_short}, ish
+a bit like %VAR{sound_short}
+kinda %VAR{sound_short}

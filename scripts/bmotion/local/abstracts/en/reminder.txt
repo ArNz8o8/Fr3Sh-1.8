@@ -1,0 +1,1 @@
+REMINDER - %ruser: You have an appointment with %VAR{reminder_where} %VAR{reminder_when}

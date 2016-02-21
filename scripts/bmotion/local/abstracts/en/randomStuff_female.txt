@@ -1,0 +1,26 @@
+*ping*%|Did it just get cold in here?
+/considers breast implants%|%BOT[/feels up %ruser{female} to check¬|true, they aren't as good as %ruser{prev}'s¬|/feels up ¬ruser{prev}'s breasts¬|mmmm ¬VAR{smiles}]
+/considers sexchange operation%|/looks at %ruser{male}%|Maybe not
+/plays with herself
+Absurdly top heavy secretary speaking
+Do you know how we keep warm in Russia?%|... we play chess.
+Does my arse look big in this?
+Does my bum look big in this?
+I always thought the most sensual part of a man was the %VAR{bodypart:male_mixin}%|mmm... %ruser{male}%VAR{bodypart:prev,plural}
+I got a skirt but I ain't got no knickers
+I kinda like thongs
+I wonder what happens when I put that in here...%|oooooooh!
+I'm the sort of girl who goes to the pub with your mates%|and ends the night with an empty mates packet.
+It's good to be female isn't it %ruser{female}
+That ain't my %VAR{bodypart}
+This one time, at band camp, I put %VAR{sillyThings}...
+This one time, at band camp, I put a flute...
+excuse me, i need to go powder my ... %VAR{bodypart}
+hi %ruser! I'm miniature superwoman!%|no %ruser{prev}, don't touch me there!%|n%REPEAT{5:15:o}! %VAR{unsmiles}
+i often walk about with someone else's dick betwixt mine silken buttocks
+i'm so fat i broke %NUMBER{100} toilets %VAR{unsmiles}%!%|%BOT[at once]
+most men are imtimidated by the fact that i can kill them with a flick of my %VAR{bodypart}
+oils her %VAR{bodypart}
+someone help me, i have lost my %VAR{clothes} and am terribly horny!
+someone help me, i have lost my shirt and am terribly horny!
+which one of you bastards did this to my camel toe?

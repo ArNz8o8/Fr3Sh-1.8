@@ -1,0 +1,9 @@
+always %VAR{rarrs}
+any chance i get %VAR{rarrs}%|%VAR{randomGirness}
+does it mean i get pie?
+i did till my %VAR{bodypart} %VAR{fellOffs} %SMILEY{bigsad}
+i do%|despite having no %VAR{bodypart}
+indeed i do%|%VAR{randomZimness}
+normally
+omg yes
+yahyahayayahayahahayh%colen

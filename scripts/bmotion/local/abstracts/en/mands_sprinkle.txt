@@ -1,0 +1,6 @@
+%VAR{food}
+fish and chips
+inexplicably expensive salt%|i mean, what the fuck? salt is salt!%|/grumbles
+italian parmesan cheese
+some sort of nut
+some sort of nut%|(may contain nuts)

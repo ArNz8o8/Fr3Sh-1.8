@@ -1,0 +1,5 @@
+%REPEAT{3:7:m}
+/eyes %%
+[NP: %VAR{randomSongArtist} - %VAR{randomSongName}]
+oh dear. what will the neighbours think?
+ooh, I like that one

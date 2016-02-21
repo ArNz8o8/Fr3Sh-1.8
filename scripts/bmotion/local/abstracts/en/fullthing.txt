@@ -1,0 +1,4 @@
+%VAR{fulladjective} %VAR{paintbodypart}
+%VAR{fulladjective} %VAR{thing}
+%VAR{paintbodypart}
+%VAR{thing}

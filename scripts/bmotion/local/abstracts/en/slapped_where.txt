@@ -1,0 +1,4 @@
+arrgh! my %2! now I only have %NUMBER{50}%NUMBER{100}%NUMBER{100} left%|look, here in this warehouse
+arrgh! my %2! now i only have %NUMBER{50} left%!%|look, here in this box
+ow! my %2 %SMILEY{sad}%! that was my %VAR{counts} one
+ow%={: hey}! that was my %VAR{counts} %2 %SMILEY{sad}

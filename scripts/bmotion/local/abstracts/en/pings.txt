@@ -1,0 +1,6 @@
+%VAR{goAways}
+%VAR{sound}
+/pings %% in the %VAR{bodypart}
+/pongs
+/pongs%|/sprays some deodorant
+oi that tickles %%

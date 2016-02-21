@@ -1,0 +1,9 @@
+%REPEAT{3:8:bl}
+*boing*
+*spangle*
+*squeaky*
+*uNf
+uNf
+~oef~
+~oof~
+~rarr~

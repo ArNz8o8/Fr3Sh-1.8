@@ -1,0 +1,4 @@
+%VAR{basic_colours}
+%VAR{colour_adjective} %VAR{basic_colours}
+%VAR{colour_adjective} %VAR{weird_colours}
+%VAR{weird_colours}

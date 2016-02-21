@@ -1,0 +1,9 @@
+%% is not my friend %VAR{unsmiles}
+%VAR{unsmiles}
+but %% is nasty to me %VAR{unsmiles}
+do not like
+do not want
+get it off me %VAR{unsmiles}
+i don't like %%
+meh
+ugh

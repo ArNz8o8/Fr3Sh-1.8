@@ -1,0 +1,8 @@
+/fires phasers
+/goes to warp
+/jumps to warp
+/launches a volley of photon torpedos
+/launches a volley of quantum torpedos
+/makes it so
+/replicates some coffee
+/sets fire to %%

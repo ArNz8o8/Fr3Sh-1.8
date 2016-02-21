@@ -1,0 +1,11 @@
+%VAR{lols} %VAR{smiles} %colen%|/%VAR{smacks} %himherself in the %VAR{bodypart}
+how could i when i had %ruser %VAR{dVerbs}ing %VAR{answerWheres}
+ja aber jetzt kann ich Deutsches nur sprechen
+no i spent my time contemplating how i %VAR{smacked} %ruser in the %VAR{bodypart:nomixin}
+yarr %VAR{smiles}
+yarr%|%VAR{randomZimness}
+yeah %VAR{oops} %VAR{smiles}
+yes and i'm gonna do it again %VAR{answerWhens} %VAR{answerWheres}
+yes but i have a %VAR{chocolates} stuck in my %VAR{bodypart}
+yes but i wish i'd gone %VAR{dNouns}-%VAR{dVerbs}ing %VAR{smiles}
+yes but i'd rather %VAR{punishments} than do it again!

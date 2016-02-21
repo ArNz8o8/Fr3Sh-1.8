@@ -1,0 +1,3 @@
+/lovingly crafts %2 out of %VAR{sillyThings:strip} for %%
+/replicates %2 and hands it to %%
+/replicates %2 for %%

@@ -1,0 +1,3 @@
+%VAR{scrap_adult_adjectives_t}
+%VAR{sport_adjectives}
+%VAR{sport_adult_superadjectives_t}

@@ -1,0 +1,142 @@
+%ruser, you man the tractor beam, i'll pump the cows full of human sewage
+%ruser... analysis: annoying!
+%ruser... analysis: moron!
+%ruser... obey my fist
+%ruser: Debate.. now! OR SUFFER!
+AARGH! The hideous mutant squid has escaped again and has created an army of cyborg zombie soldiers to do its evil bidding!
+ALERT! Something is happening at the front door! Something... horrible!
+DESTRUCTION IS NICE%colen
+Evaluation: %VAR{fruits:caps} FRESH%colen
+Evaluation: LEMON FRESH%colen
+FOOLS! i am %me!
+GIR, your waffles have sickened me! FETCH ME THE BUCKET!
+Gir... help me... there isn't much time!
+I was curious to see when you'd shut up on your own... but it's been three hours now, %ruser... THREE HOURS%colen
+I'll just have to wait for the skin to grow back on my %VAR{bodypart}
+I'll just have to wait for the skin to grow back on my eyeballs
+LEAVE NO EVIDENCE%colen
+MADNESS%colen
+RIDE THE PIG%colen
+SON! THERE BETTER NOT BE ANY WALKING DEAD UP THERE!
+The latest plan is about to explode!
+Well, thankfully I was able to reprogram those cyborgs at the last minute, and send them off to do HORRIBLE THINGS to the humans.
+aaah, the stink of clean
+activate the shrinky self-destruct!
+ah yes... uh... %ruser! and how is the happiness probe in your brain doing today, FILTHY HUMAN?
+ah! ah! THE MEAT!! THE HORRIBLE MEAT%colen
+are we going to have trouble, soldier?
+as president, I will ensure that all mankind HAS ITS LEGS SAWN OFF .... and replaced with legs of PURE GOLD!
+as soon as my skeleton stops being broken i will destroy you
+be quiet
+behold the fortress of pain
+but his voice fills me with a terrible rage!
+but sir, we're still on our own planet
+call them, and tell them we're going to blow them up!
+come my filthy stink children
+curse you snacks... CURSE YOU%colen
+delicious DELICIOUS... I AM NORMAL%colen
+do not invoke the wrath of the Irken elite!
+don't come any closer or i will lay eggs in your stomach
+don't touch anything or i'll melt your face off or something
+doom. doooom.
+dumb like a moose.
+evaluation: PATHETIC%colen
+get away... you smell like feet%colen
+get off of me! you smell like human!
+have you the %VAR{bodypart} worms?
+have you the brain worms?
+he is part of the collective now
+hey! hey! HEY! hey over here, my tallest! my tallest! my taaaaaalllesst!
+hey, someone's making doughnuts!
+how can you have an operation impending doom %NUMBER{5} without me?
+i am %me%colen
+i congratulate you in recognising my superiority and choosing me to be your love pig!
+i have a MIGHTY NEED to use the restroom
+i have a plan... an amazing plan
+i have already stuffed my normal human belly with delicious human filth that i could not eat another bite
+i have had enough of your smelly mouth filled with %VAR{fruits:plural}
+i have had enough of your smelly mouth filled with corn
+i told you that you would would rue the day when you messed with %me... now begin your rueing... i'll just sit here and watch.
+i will annihilate you down to your every last cell
+i will be in my lab bathing in paste
+i will be... LORD OF ALL HUMANS%colen
+i will call you... pusstulio
+i will prepare food with my iron fist
+i will rule you all with an iron fist
+i'm in a bear suit
+i'm not giving up... i'll destroy you%colen
+inferior human organs!
+invader blood runs through my veins like giant radioactive rubber pants... the pants command me! do not ignore my veins!
+invaders need no one... NO ONE%colen
+is it a fair fight... is this moose weilding any projectile weapons?
+meats of evil! meat of EVIL%colen
+more power... give me MORE POWER%colen
+mwahahahahahahahahahaha
+no more waffles, GIR. No really, I'm starting to feel sick. *retch*
+nothing can stop %me... nothing! not even this army of zombies!
+nothing will stand in my way... not even %VAR{sillyThings}!
+now cry... CRY like you've never cried...... before
+now to release screaming temporal doom
+oh, I know all kinds of things about you... pretty creepy, huh?
+only now can I reveal that, if elected, I will ensure that every student is given a zombie wiener-dog to do their bidding. Can %ruser say that?
+ow! my squealyspooch!
+ow... my spine
+people of earth! prepare to meet the mighty foot of my planet
+pitiful human
+please buy my candies or my little brother will go insane
+prepare to meet your horrible doom
+prepare yourselves for destruction
+processing... PROCESSING%colen
+release me! release me or suffer the wrath of %me
+release the pig%colen
+rise up and use your revolting limbs to escape this prison
+say, you're full of organs aren't you? and you wouldn't notice if you were missing a few?
+shouldn't you be frying something?
+silence!
+silence... my victory begins now%colen
+so... much... filth!
+something is broken and it's not your fault?
+sometimes i'm afraid to find out what goes on in that insane head of yours
+soon they'll all be after my delicious %VAR{bodypart:strip,plural}
+soon they'll all be after my delicious guts
+squealing fools%colen
+stay right there... we're sending someone over to beat you up for playing jokes on the FBI!
+stop snivelling little worm monkey
+stupid silent glue boy
+surely that was no human bee!
+take me to the meat
+the child shrieks like a fruitbat!
+the dogs! they're after my meat body of juicy bologna meats.
+the giant flesh-eating demon squid has escaped! security! protect your master! GIR! Defensive mode!
+the grotesque monster-boy avoids the issues! just what does he plan on doing about the size of %ruser{:owner} giant head? If I am elected, %ruser{prev:owner} head will be removed, and filled with salted nuts!
+the taste of human annihilation grows stronger in my amazing head
+the very thought of it make me... makes... little... sicky noises
+there is no so worthy as %me%colen
+they've locked down their fortress... with locks
+this is no man pig
+time for another amazing plan from me... %me!
+victory for %me%colen
+wave of doom
+we will begin by testing your absorbancy.
+well, time to work on my next evil plan.
+well... yes... i'm an unstoppable death machine
+what is the meaning of this%colen
+when the repairs are done i shall hunt down that evil death bee.
+when will the lies end?!
+who *are* you people
+why am i so amazing?
+why was there bacon in the soap?
+with my mighty fists of horror, and unstoppable cruelty, i am the tool of destruction, vengeance and fury
+yes yes... i'm a master of comedy, now what's this plan
+yes, my tallest!
+you dare insult the pants of %me%colen
+you dare insult to %VAR{clothes:plural} of %me%colen
+you dare tell me what i already know?!?!?!
+you lie... YOU LIEEEEEEE%colen
+you will open your eyes... you have to breathe sometime
+you won't make a fool of this Irken invader
+you! burger lord! how is this meat so clean... so pure?!
+you're after my robot bee%colen
+you're nothing, earth-boy! go home and shave your giant head of smell with your bad self!
+your magical love adventure begins now
+your waffle-eating days are over, %ruser!

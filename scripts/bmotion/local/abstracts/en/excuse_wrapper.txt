@@ -1,0 +1,4 @@
+I can't, I've got to %VAR{excuses}
+Sorry I'm late, I had to %VAR{excuses}
+Sorry, I had to %VAR{excuses}
+Sorry, I need to %VAR{excuses}

@@ -1,0 +1,10 @@
+eyes
+hair
+hairline
+hand gesture
+knees
+nose
+stance
+stare
+suit
+teeth

@@ -1,0 +1,123 @@
+%REPEAT{7:15:bl}
+%VAR{sound2}%|Sorry, my %VAR{illness} is playing up
+%VAR{sound_short}%|sound effects added to lessen tragedy
+%ruser is under some kind of spell. that's why i don't have to cover my mouth fully while i talk
+%ruser really puts the %VAR{sillyThings:strip,triplet} in %VAR{sillyThings:prevtriplet}!
+%ruser: There is a %VAR{scrap_adjectives} message for you: The %VAR{thing} has %VAR{sillyVerbs}ed the %VAR{sillyThings}!
+*applause* and next on cbeebies...
+*schwing*
+*spangle*
+*yawn*
+... and was buried with George Burns until rampaging space monkeys - well you know the rest!
+/waves around a broken %VAR{sillyThings:strip}%|sorry! i dropped it when i was pretending it was my %VAR{bodypart}
+Are those real handcuffs?
+Are you local?
+Computer, deactivate iguana.
+Current status: %VAR{current_status}
+D'oh!
+Denny Krane!
+Do it again in a deeper voice
+Does it hurt when I do this?
+Don't touch that. It's dirty.
+For this %={physical:mental:skill:mystery} challenge I need to you to take your %VAR{clothes:bothmixin} off
+I don't know but i am tripping on a bun
+I saved the space-time continuum and %NUMBER{8}0% of your rectum!
+I'm sweating like a pig!
+It was the freshest move I've ever seen
+It's not my fault, it just exploded.
+Look, he's simulating sex with the floor
+Mr %ruser{male}... are those your UNDERPANTS?!
+My interest in what you are talking about is %={low to moderate:high to extreme}
+Oh shut up! you don't even have fingers
+PUT YOUR KNICKERS ON AND GO GET ME A CUP OF TEA
+SILENCE%colen
+So anyway, I'm really attracted to you pardner! Yee haw! Did you like lesbians?
+Stop wiggling for a minute.
+That reminds me, I need to write to my solicitor.
+That's why I'm the %VAR{food}!
+That's why I'm the chicken!
+Truely I have been scandalized by your scarcely-clad shenanigans
+We'll have no trouble here
+What's it going to take to get you into this car?
+Yeah, I was up that
+You are the weakest link, goodbye.
+You have something in your %VAR{bodypart}.
+You know, you really should keep a personal log; why bore others needlessly?
+You will be a winner today. Pick a fight with a four-year-old.
+and in the game
+and later on i shall rub you down with %VAR{food} fat and shout at you
+and near the milkshake
+and now I shall part your %VAR{bodypart:bothmixin}
+and now what?
+blimey
+but is it art?
+calm down dear%|it's always been that shape
+crikey
+deary me
+didn't you just pump it out on the ground
+do we have any solaris 9 boxes with solaris 9 on?
+er, not that far in, would be really painful at this time of %daytime
+er, not that far in, would be really painful at this time of night
+fantastic
+har har
+ho ho
+hoorah
+i could really go for some %VAR{bodypart}-blowing sex right now
+i don't know what you're talking about
+i want mine with sprinkles
+i wish I had a %VAR{sillyThings} like %ruser's %SMILEY{sad}
+i'll eat grass and you brace yourself
+i've been to some conventions like that
+if all else fails, use fire
+if it's really urgent i'd go put my hands in
+impossible%|you are already at full cock now
+is this going to be on the test?
+it mostly came out in dribs and drabs
+it's moving them around next to them thats worse
+just think how sexy you'd look with my %VAR{bodypart} in your %VAR{bodypart}
+just think how sexy you'd look with my %VAR{bodypart} in your mouth
+looks like i picked the wrong week to quit %={smoking:amphetamines:sniffing glue}
+master using it and you can have this!%|/shows %ruser %VAR{sillyThings}
+mine is flapping pointlessly somewhere round my ankles
+mount them so you can alter their thrust
+much like your mother
+no, I fed her absinthe and all was good
+nom nom nom
+now back to Reducto's to enlarge myself!
+of course. i feel poor people should enjoy being hit in the face with a shovel
+oh really well what do you think, talking %VAR{bodypart:bothmixin}?
+oh yeah? fuck your theory.
+oh! i can't wait until the tatoos on %ruser's butt hear about this!
+oh, it's a rape %VAR{sillyThings:strip}, but the %VAR{sillyThings:prev} fell off
+precious hamburgers?
+push the stinky dribbling fuck into the sea
+r
+shouldn't be a problem unless you keep re-using the same %VAR{sillyThings:strip}
+shouldn't be a problem unless you keep re-using the same tissue
+spam, spam, spam, spam, spam, spam...
+that sure is one platonic view
+that's nice dear
+that's not a %VAR{fruits} anyway %ruser{enemy}
+that's the most sensible thing i've heard all day. now let's go sniff some butt
+the professor was right! you are evil. and shallow%|%BOT[i am not shallow %SMILEY{sad}]
+then one night some of her friends were over and they wanted to join in
+this reminds me of my wedding night
+try to stay with the crowd so noone notices how crummy you look
+uh huh, uh huh... that's whatever you were talking about for you
+unlike your mother
+up on the table, arms out, knees bent, now flap!
+very good, give me surprised and pleased
+very good, now give me %VAR{sillyVerbs:past} and %VAR{sillyVerbs:past}
+well i fully intend to be an utter burden and piss myself
+what a clever impression of a stupid poor person
+which was nice
+who... does... number... %NUMBER{50}... work... for?
+who... does... number... two... work... for?
+why don't i just jump out of a plane with a %VAR{musicalinstruments} glued to my face
+would you call what we did last night 'sex'?
+yeah, keep it open until I'm sure
+yes, because winter is coming
+you jerked the words right out of my mouth!
+you know that stuff you did for me last night?
+you show that turd who's boss
+you've got no piss control!

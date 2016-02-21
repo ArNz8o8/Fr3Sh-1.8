@@ -1,0 +1,26 @@
+%REPEAT{1,4,+++MELON}+++
++++
++++Activating
++++Arbitrary
++++Completed
++++Conflicting
++++Current
++++DANGER:
++++Good Morning:
++++I WANT MY
++++Incorrect
++++Insert
++++Insidious
++++Load
++++Magical
++++Missing
++++Out Of
++++Overley Terrifying
++++Please Execute
++++Proceed to
++++Random
++++Summoning
++++System Error
++++Trying To Enable
++++Undefined
++++Unparalleled

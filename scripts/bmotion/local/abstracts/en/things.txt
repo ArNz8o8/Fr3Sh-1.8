@@ -1,0 +1,32 @@
+axes
+battle axes
+bibles
+boulders
+cauldrons
+chains
+chainsaws
+coffins
+drum kits
+drumming machines
+electric guitars
+fetuses
+flails
+hammers
+hearts
+knives
+nails
+planets
+sawblades
+skulls
+spears
+spikes
+stars
+stones
+suns
+swords
+syringes
+thorns
+tombstones
+wands
+warhammers
+whips

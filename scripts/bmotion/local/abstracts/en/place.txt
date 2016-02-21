@@ -1,0 +1,43 @@
+abyss
+afterlife
+arena
+battleground
+canyon
+castle
+cathedral
+cave
+cemetary
+chamber
+church
+city
+crater
+desert
+dungeon
+forest
+fortress
+freight train
+galaxy
+graveyard
+hell
+inferno
+jungle
+labyrinth
+mach truck
+mass grave
+monastery
+mountain
+ocean
+pit
+planet
+prison
+prison cell
+purgatory
+river
+sea
+torture chamber
+tower
+universe
+valley
+volcano
+wasteland
+world

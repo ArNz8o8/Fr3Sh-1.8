@@ -1,0 +1,27 @@
+a cheese shop
+at %ruser{:owner} house
+at the north pole
+at the shops
+behind the fridge
+down the local shop
+in %VAR{cities}
+in America
+in Amsterdam
+in Chippenham
+in Devon
+in Mars
+in New York
+in a book
+in a field
+in bed
+in bed with %ruser{like}
+in bed with Madonna
+in the car
+in the coffee pot
+in the toilet
+next to %ruser
+on the desk
+on top of the telly
+over thair%|*point*
+the USS Enterprise
+under a book

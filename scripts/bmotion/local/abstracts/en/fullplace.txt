@@ -1,0 +1,4 @@
+%VAR{fulladjective} %VAR{place}
+%VAR{fulladjective} %VAR{place} of %VAR{material}
+%VAR{place}
+%VAR{place} of %VAR{material}

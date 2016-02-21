@@ -1,0 +1,3 @@
+I'd %VAR{sillyVerbs} his %VAR{sillyThings:strip}
+be careful not to stick it in too far
+ugh. i hope this is part of the unfreezing process

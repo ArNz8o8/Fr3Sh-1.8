@@ -1,0 +1,13 @@
+%NUMBER{3000}
+ace
+eight
+five
+four
+jack
+king
+nine
+queen
+seven
+six
+three
+two

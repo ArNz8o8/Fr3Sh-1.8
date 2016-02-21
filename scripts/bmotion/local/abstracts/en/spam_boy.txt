@@ -1,0 +1,2 @@
+%VAR{spam_adjective} %VAR{spam_boys}
+%VAR{spam_boys}

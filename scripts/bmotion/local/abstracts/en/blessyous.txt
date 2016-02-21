@@ -1,0 +1,13 @@
+%% - I recommend %VAR{sillyThings}
+/ducks
+/hands %% a tissue
+/hides behind %ruser
+Bless you
+Eek. Don't give it to me
+Great. Now I'm gonna get a cold %VAR{unsmiles}
+Rogue bogey!
+bless you
+e%REPEAT{2:5:w}%|*wipe*
+gesuntheit
+good thing I bought this haz-mat suit
+hehe, someone must be talking about you %VAR{smiles}

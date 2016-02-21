@@ -1,0 +1,13 @@
+%colen
+*flames*%|%bot[50,¬VAR{extinguishes}]
+*smoulder*%|%bot[50,¬VAR{extinguishes}]
+/burns%|%bot[50,¬VAR{extinguishes}]
+/explodes
+/goes up in flames%|%bot[50,¬VAR{extinguishes}]
+/informs the world 'It's time to burn'
+/torches%|%bot[50,¬VAR{extinguishes}]
+B%REPEAT{2:5:O}M
+BLAM
+b%REPEAT{2:5:o}m
+huk
+pop

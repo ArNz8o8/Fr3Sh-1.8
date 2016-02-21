@@ -1,0 +1,7 @@
+%REPEAT{3:7} %%
+%VAR{smiles}
+\o/
+\o/ %%
+hurrah
+i like %%
+wh%REPEAT{3:7:e} %%

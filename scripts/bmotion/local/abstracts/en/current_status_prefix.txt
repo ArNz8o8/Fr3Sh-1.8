@@ -1,0 +1,3 @@
+%VAR{medical_types}
+%VAR{pluralprefix}
+ 

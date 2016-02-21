@@ -1,0 +1,7 @@
+admiring
+dancing with
+hugging
+petting
+pouring %VAR{nice_paintstuff} over
+squeezing
+stroking

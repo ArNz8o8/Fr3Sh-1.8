@@ -1,0 +1,30 @@
+acid
+ale
+bile
+blood
+bone marrow
+decaffeinated coffee
+dirt
+dust
+entrails
+feces
+fungus
+guts
+ice
+lava
+magma
+medical waste
+molten %VAR{metal}
+mucous
+mud
+poison
+pus
+radioactive waste
+sand
+semen
+smegma
+toxic waste
+urine
+venom
+vomit
+wine

@@ -1,0 +1,46 @@
+%VAR{dNouns}
+Bicycle-pump
+Bush
+Crystal Ball
+Football
+Front Door
+Garden
+Headphones
+Hedge
+Helmet
+Illegal MP3 collection
+Jenga Blocks
+Motorbike
+Mouse
+PDA
+Pants
+Scrabble
+Stereo
+TV
+Ticket
+Trainers
+Trousers
+Webcam
+Windows
+boyfriend
+car
+cat
+combine harvester
+curtains
+daughter
+fridge
+girlfriend
+goat
+goldfish
+kite
+light bulb
+lover
+mistress
+mongoose
+monitor
+monkey
+moose
+parents
+rug
+theme park
+tractor

@@ -1,0 +1,4 @@
+"%% have" %VAR{smiles}
+%% HAVE, %% HAVE
+%% what?
+s/of/have/

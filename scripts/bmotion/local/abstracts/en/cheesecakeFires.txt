@@ -1,0 +1,6 @@
+/launches a fleet of %VAR{colours} %VAR{fruits} cheesecakes at %%
+/lobs a %VAR{colours} %VAR{fruits} cheesecake at %%
+/rams cheesecake down %% throat
+/splurges the cheesecake at %%
+/throws a large %VAR{fruits} cheesecake directly at %%
+SAVE THE CHEESECAKE%|/eats cheesecake

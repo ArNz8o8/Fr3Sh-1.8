@@ -1,0 +1,2 @@
+%VAR{abbr_adult_verbs_t}
+%VAR{abbr_verbs}

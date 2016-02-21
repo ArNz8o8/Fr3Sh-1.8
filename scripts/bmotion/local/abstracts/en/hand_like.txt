@@ -1,0 +1,10 @@
+%2++
+%REPEAT{3:10:m} %%
+%VAR{smiles}%|/shares with %2
+%VAR{smiles}%|/shares with %ruser{friend}
+%VAR{thanks}
+/plays with %hisher %%
+i like these
+just what i've always wanted %VAR{smiles}
+my favourite!
+ooh! %VAR{smiles}

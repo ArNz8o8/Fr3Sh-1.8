@@ -1,0 +1,9 @@
+can %ruser watch?
+can't wait%|%VAR{randomZimness}
+certainly%|do you like my %VAR{bodypart}?
+hand me a %VAR{dNouns} and i'll give it a bash :D
+of course!%|%VAR{randomGirness}
+ok but you have to hold my %VAR{bodypart}
+okie dokie
+omg yes
+will you %VAR{dVerbs} my %VAR{bodypart}?

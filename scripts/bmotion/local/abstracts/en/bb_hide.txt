@@ -1,0 +1,7 @@
+%OWNER{%ruser} bed
+%OWNER{%ruser} cupboard
+a cupboard
+a pillowcase
+another one that's slightly larger
+the %VAR{bb_places}
+the cistern

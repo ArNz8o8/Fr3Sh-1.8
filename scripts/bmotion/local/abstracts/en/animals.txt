@@ -1,0 +1,18 @@
+anteater
+bear
+cat
+cow
+dog
+elephant
+giraffe
+goat
+goose
+horse
+meerkats
+mouse
+panther
+pig
+rare Peruvian spectacled bear
+rat
+sheep
+zebra

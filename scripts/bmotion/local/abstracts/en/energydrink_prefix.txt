@@ -1,0 +1,2 @@
+%={Power:Ultra:Mega:Super:Hyper:Turbo:Ace:Energy:Potent:Superb:Fine:Splendid:Wicked:Banging:Fabulous:Perfect:Dazzling:Marvellous}
+%VAR{basic_colours:camel}

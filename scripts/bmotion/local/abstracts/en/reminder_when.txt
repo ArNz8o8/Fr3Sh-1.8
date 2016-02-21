@@ -1,0 +1,6 @@
+%NUMBER{120} minutes ago
+at %NUMBER{12}:%NUMBER{59}{2}am
+at %NUMBER{12}:%NUMBER{59}{2}pm
+at %TIME{1 minute ago}
+at %TIME{now}
+in %NUMBER{59} minutes

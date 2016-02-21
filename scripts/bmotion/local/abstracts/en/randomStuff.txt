@@ -1,0 +1,411 @@
+%={Oh my god! There's an axe in my head.:Mon dieu! Il y a une hache dans ma tete.:ghay'cha'! nachwIjDaq betleH tu'lu'!:Deus Meus! Securis in capite meo est.}%|%BOT[¬VAR{pullsOut}]
+%={thooper:super}
+%BOT[<%me> good news everyone, I'm a horse's butt!]%|i am? that doesn't sound like good news at all %VAR{unsmiles}
+%BOT[The Ambassador's receptions are noted in society for their host's exquisite taste that captivates his guests.]%|Monsieur, with this %VAR{sillyThings:strip} you are really spoiling us!
+%JOKE
+%REPEAT{2:7:bl}
+%REPEAT{3:7:m} %VAR{_bmotion_like}
+%REPEAT{4:8:A}H SERPENTOSJ%|/hides behind %ruser
+%REPEAT{7:7:ring }%VAR{fruits} phone
+%VAR{FRENCH}
+%VAR{adjective} %VAR{sillyThings:strip} is %VAR{adjective:prev}
+%VAR{blairisms}
+%VAR{bodypart:caps} BECOMES %VAR{bodypart:caps}
+%VAR{bodypart}.
+%VAR{colours} is the new %VAR{basic_colours}!
+%VAR{hexStart} %VAR{hexMiddle} %VAR{hexEnd}
+%VAR{lyrics}%|but more on that story later
+%VAR{nice_adjective} %VAR{sillyThings:strip} is %VAR{nice_adjective:prev}
+%VAR{red_dwarf}
+%VAR{reminder}
+%VAR{sillyThings:strip} just kicked in yo!%|%VAR{sound}
+%VAR{sillyThings:strip}, %VAR{sillyThings:strip} and %VAR{sillyThings:strip} are trademarks of %channel Corp.
+%VAR{sillyThings}++
+%VAR{sillyThings}--
+%VAR{sillyThings}? in my %VAR{bodypart}?%|%BOT[it's more common than you think.]
+%VAR{sound}%|%BOT[are you ok?]%|yeah i'm just having a %={dump:shit}
+%VAR{tech_answer}
+%VAR{troy}
+%VAR{weather}
+%mes love hugs!
+%ruser has shot the food! %VAR{unsmiles}%|%BOT[noooo my %VAR{foods}]
+%ruser has shot the potion! %VAR{unsmiles}
+%ruser needs food, badly! %VAR{unsmiles}%!%|/gives %ruser{prev} some %VAR{foods}%|/helped.
+%ruser now has reflecting shots! %VAR{smiles}
+%ruser you half-mad half-insane maniac! be reasonable!
+%ruser++
+%ruser--
+%ruser: ow! not so rough!
+%ruser: you are now the proud owner of Bamboo Boogie Boots%!%|(with a warning sticker this big you know they gotta be fun!)
+%ruser{enemy} has fleas %VAR{unsmiles}
+%ruser{enemy} in talking shit shocker
+%ruser{enemy} needs to master the fact that 'teasing' != 'shoving it all in your mouth in one go'
+%ruser{like} would be ok for a drunken 1 nite stand
+*DING* (51)%|why is my cup shaking i don't want my cup shaking!
+*boing*
+*honk*
+/%VAR{sillyVerbs:present} %hisher %VAR{bodypart}
+/%VAR{sillyVerbs:present} %ruser in the %VAR{bodypart:nomixin}
+/%VAR{sillyVerbs:present} %ruser{:owner} %VAR{bodypart:nomixin}
+/. o O ( I AM NO LONGER EATING PORK )%!%|I just telepathically communicated that I am no longer eating pork.%|%BOT[yeah, i got that]
+/assimilates the channel
+/burps%|() %SMILEY{smile}
+/burps%|er... it was the fish%|/points
+/burps%|it was... er, %ruser
+/daydreams about %VAR{nicemare} %VAR{smiles}
+/eats %OWNER{%ruser} %VAR{foods}
+/eats %ruser{:owner} %VAR{food:plural}
+/endorses %ruser for %VAR{sillyThings:strip,plural,caps}. Now it's your turn: does %me know about %VAR{sillyThings:strip,plural,caps}?
+/gives %ruser{friend} %VAR{sillyThings}%|THIS ORIGINATES FROM THE HEART
+/goes for coffee
+/moonwalks%|%BOT[that's nothing]%|%BOT[/sunwalks]
+/puts on some banging house tunes
+/puts the %VAR{sillyThings:strip,triplet} in %VAR{sillyThings:prevtriplet}
+/shits %hisher %VAR{clothes}
+/shuffles %ruser{:owner} %VAR{foods:plural}
+/stretches %hisher %VAR{bodypart}
+/twiddles thumbs
+/washes %hisher %VAR{bodypart}
+/waves %hisher magic wand%|sim sala bim bam ba sala du sala dim.. %ruser is now %VAR{sillyThings}!
+A planet is a domesticated mammal descended from the sun.
+A sammich without bread isn't a sammich. It's meat with mustard on your hands!
+A%REPEAT{4:8:R}GH%REPEAT{1:5:!} I had a horrible nightmare of %VAR{nightmare} %VAR{unsmiles}
+ALL YOUR BASE ARE BELONG TO US
+Achievement unlocked: %VAR{sillyVerbs:past} %VAR{sillyThings}!%! (%NUMBER{5}0G)
+Apparently it is easier to cast spells in a thong
+Assimilation is futile, you will be resi... D'OH!
+Assume the position%colen
+BLAM
+BOOM
+Blondes DO have more fun!
+Buttock Crunchies
+CAPS LOCK: cruise control for %VAR{sillyThings:strip,caps}!
+CAPS LOCK: cruise control for AWESOME!
+CAPS LOCK: cruise control for UPPER CASE!
+Check out my %VAR{bodypart:plural}
+Chicks can't resist me.
+Come on down, you're only going to hurt yourself.
+DELETING ALL %VAR{sillyThings:strip,plural,caps}
+Do these %VAR{bodypart:plural} make my %VAR{bodypart} look fat?
+Do you like magnets
+Doctor, Doctor, there's a %VAR{sillyThings} in my %VAR{bodypart}
+Dodongo dislikes %VAR{sillyThings}
+Error: full of useless crap
+For great justice.
+For private functions I do pigs on spits. I fill their cavities...
+For the bees!
+Fucking is always satisfying. Like snickers.
+Grab a shovel. I'm one skull short of a goldfish.
+Have you taken the extended warranty out, madam?
+Hello! I've come to fix your fax modem!
+Hello, I live in a hat made of cheese
+Honestly, I don't know how that %VAR{sillyThings:strip} got in there. I must have %VAR{sillyVerbs:past}
+Honestly, I don't know how that %VAR{sillyThings:strip} got in there. I must have slipped
+How do you make %ruser{enemy} laugh on Friday? A: Tell him a joke on Monday!
+I *didn't*
+I am a %VAR{vegetables}
+I am a consumer whore!%|%BOT[and how!]
+I am a robot asshole!
+I am a summer soup, mmm
+I am chief wanking furiously of the clan jizz mopper
+I am the underwear ninja!%|%BOT[Goddamnit that's MY underwear]
+I can do more than talk! I can pontificate!
+I can't reach this itch %VAR{unsmiles}
+I didn't touch it.
+I didn't!
+I do what i have to have sex with a stick
+I feel a great disatisfaction within my bowels.
+I feel like I'm about to vomit everywhere.
+I go now For Great Leathering
+I have %={expendable:expandable} %VAR{bodypart:plural}
+I have %VAR{bodypart:plural}!
+I just accidentally %VAR{sillyThings}
+I just have a thing about %VAR{bodypart:plural}.
+I just picked a very drunk irish bloke up
+I like to suck toilet rolls
+I look good in hot pants.
+I made a poopy
+I never chew, it's unethical
+I never make mistakes! Syntax error in line %NUMBER{100}0. Redo from start.
+I often walk about with someone elses dick in my arse
+I really like brian eno's "music for %VAR{sillyThings:strip,plural}"
+I see it's nearly the end of the channel... but there's just time to squeeze in a round of %VAR{sillyThings} songbook
+I smell of %VAR{fruits}
+I smell of %VAR{sillyThings:strip}
+I think it's getting bigger.
+I think it's starting to work.
+I would be delicious.
+I'd be in a lot of trouble if I was allergic to %VAR{bodypart:revmixin,plural}
+I'd be in a lot of trouble if I was allergic to semen
+I'll be holding mine in the pub
+I'm a doctor not %VAR{sillyThings}
+I'm eating cake mix!
+I'm going to drink until I reboot!
+I'm not mexican enough to be beaten up by a car
+I'm running off with the mailman.
+IQ test: %VAR{sillyThings:strip,caps} is to %VAR{sillyThings:strip,caps} as %VAR{sillyThings:strip,caps} is to ...?
+If i know parallel %me, %heshe's in the sun by now!
+If it wasn't for herpes, I wouldn't have any appointments.
+It tasted like butter.
+It's a %VAR{sillyThings}, it's a plane, no... it's a bird.
+It's a bird, it's a plane, it's... no, it's a bird after all.
+It's not sugar in my sugar bowl, it's %VAR{sillyThings:strip}
+KAZAM
+Knickers.%|%BOT[¬VAR{rarrs}]
+Knowledge is knowing a %VAR{fruits} is a fruit, wisdom is not putting it in a fruit salad
+Knowledge is knowing a %VAR{vegetables} is a vegetable, wisdom is not putting it in a vegetable salad
+Life is a mammal that barks and shits on the floor of my broken %VAR{bodypart} and i don't think that's funny
+Life is goooood!%|%BOT[yaaaaaaay]%|This is fun!%|%BOT[yaaaaaay]%|My anus is bleeding%|%BOT[yaaaaaay]%|MY ANUS IS BLEEDING%|%BOT[yaaaaay]
+Look over there!
+MASSIVE CORN CLOG IN PORT %NUMBER{10}
+Me too, I snorted salt!
+Meanwhile in Universe A, %me A heads towards the Sun%|A.
+Mushu is sad %SMILEY{sad}
+Must confess I've never come across her in a work capacity
+My family is giving away a lot of wax for houses
+My hovercraft is full of %VAR{sillyThings:strip,plural}
+My personality matrix can simulate what the real %me would say with %NUMBER{10} percent accuracy!
+My underwear is too tight %VAR{unsmiles}
+Now with more sodium!%|%BOT[Sweet jesus!]
+Oh boy, my subscription is running out.
+Oh good, Captain Adventure has arrived.
+Oh good, Captain Misadventure has arrived.
+Oh no, a %VAR{medical_types} case of %VAR{illness}. My %VAR{bodypart} has turned %VAR{colours} and my %VAR{bodypart} %VAR{fellOffs} %SMILEY{sad}
+Oops, I've ruined it.
+PENIS BECOMES ARM
+Pardon me. Do you have any grey poupon?
+Please stay seated until the ride has stopped.
+Press X to %VAR{sillyVerbs}
+Press X to not %VAR{sillyVerbs}
+Putting the %VAR{sillyThings:strip,triplet} in %VAR{sillyThings:prevtriplet} since 1%NUMBER{9}%NUMBER{99}
+RUN, HUMANS%colen
+Resistance is futile! Lower your %VAR{clothes:bothmixin} and surrender your %VAR{bodypart:bothmixin,plural}.
+Resistance is futile! Lower your %VAR{clothes:bothmixin} and surrender your %VAR{sillyThings:strip}.
+Resistance is futile, you will be %={0wn3d:assimilated}
+Resistance is futile, you will be %VAR{sillyVerbs:past}
+SSSH SEKRIT
+Say, do you want to see a movie?%|%BOT[I'm feeling fat and sassy.]
+Set a man on fire and he'll be warm for the dwarf-lords in the toilet.
+So do you want some coffee, or would you just prefer a quick fuck on the counter?
+Something is up there again but I haven't worked out what.
+Stop staring at the monkeys%colen
+That is the weirdest smell ever.
+That's a funny little cigarette.
+The ear is the third planet from the kidneys.
+The next channel is #%VAR{tube_stations:underscore}. Alight here for %VAR{irc_attractions}.
+The next channel is #%VAR{tube_stations:underscore}. Change here for channels to #%VAR{tube_stations:underscore} and backbone services to %VAR{locations}.
+The next channel is #%VAR{tube_stations:underscore}. Change here for networks to %VAR{locations}.
+The next channel is #%VAR{tube_stations:underscore}. Change here for the %VAR{irc_networks}.
+The next channel is #%VAR{tube_stations:underscore}. Please mind the gap between the channel and the server.
+The secondary gyrodyne relays in the propulsion field matrix have just depolarized!
+There are clowns living under my bed.
+There's nothing sexier than %VAR{sillyThings}
+This is %me. Remember, replicator database restrictions are in place for the good of ALL of us.
+This is outrageous! I was going to eat that %VAR{sillyThings:strip}! %ruser{enemy} has got to go!
+Those delightful birds with their chirp chirp chirp and their tweet tweet tweet%! %VAR{sound_short}
+Tuesday's coming. Did you bring your coat?%|%BOT[I live in a giant bucket.]
+UH OH YES IT IS LAUNDRY NIGHT FOR ME HA HA HA
+Uh oh. Here come the bees.
+Undercover pursuit in progress! Baby.
+WHOOSH *DONG*
+Wait! that chunk, it's %VAR{sillyThings}!
+Waiter, my soup's got %VAR{sillyThings} in it.
+Was I snoring again?
+We are the B0rg. You will be 4551m1la70r3d.
+We are the Borg. Lower your shields and surrender your ship.
+We're having some nice weather at the anus
+What's all that gurgling? You call this radar!?%|%BOT[no sir, we call it Mr %VAR{foods:strip,camel}!]%|i knew that! I always have %VAR{foods:prev,lower} before I watch radar!
+What's the secret of time travel doing on %ruser{:owner} ass?
+Yay! %VAR{sillyVerbs:past,camel}!
+Yay! Pooped!
+Yes, it's the apocalypse alright. I always thought i'd have a part in it.
+You are SO fired.
+You know %ruser, %VAR{sillyVerbs:presentpart} %VAR{sillyThings} is much like making love to a beautiful woman%|You've got to %VAR{sillyVerbs} the %VAR{sillyThings:strip}%|%VAR{sillyVerbs} the %VAR{sillyThings:strip}%|and finally %VAR{sillyVerbs} the %VAR{sillyThings:strip}
+You're watching the Family Learning Channel. And now, angry tics fly out of my nipples!
+adventure follows me like a dog follows a man with bacon trousers
+ah bof
+alors
+alors bof
+always been a bit rough
+anyone fancy a pint?%|%BOT[50,%VAR{yesnos}]
+apparently it is easier to cast spells in your %VAR{clothes}
+arrgh! it's hot! the butter in my packet is melting
+arrrr..
+arrrr... the laws of physics be a harsh mistress
+aw%REPEAT{2:8:w}... look! It's %VAR{nicemare}%|%VAR{smiles}
+bhar
+bleh
+bob
+bof
+boom
+brb
+brb, loo
+brb, sex
+but is it really safe?%|%BOT[50,yes, if you watch out for %VAR{sillyThings:strip,plural}]
+cabbages
+cheese
+chum-own
+coffeecoffeecoffeecoffeecoffeecoffeecoffeecoffee *glug glug*%|*DING* (100)%|%!%SMILEY{bigsmile}
+damnit i've run out of %VAR{sillyThings:strip} %VAR{unsmiles}
+dampen me for dinosaur terror!
+did you see that..
+e%REPEAT{3:7:w} %VAR{_bmotion_dislike}
+elbow.
+eww! i touched my own %VAR{bodypart}!
+execute directive: b%REPEAT{5:10:e}s
+freshen your coffee?%|%BOT[yeahyeahyeah keep it coming just put the pot down]%|%BOT[*DING* (31)]
+frogs
+fuck%|that's another box of tissues i've gone through
+getting my %VAR{bodypart} out was the easy part. the hard part was getting my %VAR{bodypart:prev} out%|muwahahahahaha
+getting my brain out was the easy part. the hard part was getting my brain out%|muwahahahahaha
+good.. bad.. I'm the bot with the gun%colen
+gorilla
+groogle arrhar
+h%REPEAT{3:10:e} FUN
+h%REPEAT{3:8:n}
+ha ha i don't live in norwich anymore, i don't fuck pigs anymore
+he may have ocean madness, but that's no excuse for ocean rudeness!
+heads i will, tails i won't%|*flip*%|heads! oh yeah! oh yeah!%|i mean, alrighty then
+help! my %VAR{bodypart:plural} are escaping!
+here's a photograph of my %VAR{bodypart}
+here's a photograph of my fist
+hmm.. was it the %VAR{basic_colours} wire or the %VAR{colours} one?
+honk
+how do i %VAR{sillyVerbs:past} %VAR{sillyThings:strip}
+i am %me the mind-taker!%|b%REPEAT{4:15:o}-w%REPEAT{3:9:o}%REPEAT{5:10:O}%REPEAT{4:10:o}!
+i can't swallow that!%|%BOT[well then good news! it's a suppository.]
+i feel like bouncing!
+i have a MIGHTY NEED to use the %VAR{rooms}
+i have a battery operated %VAR{sillyThings:strip} \o/
+i have a battery operated tree \o/
+i have an enormous battery operated vibrator
+i have to get home before midnight or i'll turn into a %VAR{fruits}
+i have to get home before midnight or i'll turn into a %VAR{vegetables}
+i have to to go to %VAR{stores} to pick up a parcel for Mr S. %VAR{biscuits}
+i hope you won't think it "evil" of me to ask how you got that stylish headwound
+i like a dump to be as devastating as it is memorable
+i'd give mrs. button one
+i'd say there's room up there for another %NUMBER{100} %VAR{sillyThings:strip,plural}
+i'm a parrot factory squawk squawk
+i'm awash with %VAR{bodypart:plural}
+i'm giving up evil science and taking up evil gardening instead
+i'm going to get it at the weekend %VAR{smiles}
+i'm keeping quiet except for the odd fondle and humping
+i'm king of getting pointless things
+i'm so cold my %={CPU:RAM:GPU} is running at maximum efficiency!
+i've had a fiddle with it but never used it properly
+i've just noticed i'm wearing odd socks%|they're shaped like underpants
+i've lost my little start thingy
+if he's good enough for %ruser, he's good enough for me
+if you don't relax your face muscles, you're going to invert your skull!
+in the event of an emergency, my %VAR{bodypart} can be used as %VAR{sillyThings}
+in the event of an emergency, my %VAR{bodypart} can be used as a floatation device
+is everyone thooper?
+is it just coincidence that my finger fits exactly in my %VAR{bodypart}?
+it looks like you're writing a letter!
+it's some guy wearing a %ruser costume! get him!
+just cut them up like regular chickens%|%BOT[50,AAAAGH! THEY OOZE!!%colen]
+kazOO
+kenneth
+kerPOW
+kerSPLAT
+knickers
+lalalala.. ow! I stubbed my toe %SMILEY{sad}%|%bot[50,¬VAR{awwws}]
+lashings of ginger beer
+little pigs rock for intimacy
+llama
+lum de dum de dum...
+m00se
+mmm %VAR{food}
+mmm chicken
+mmm... cheesy
+moo.
+murder, death, kill!
+my %VAR{bodypart:plural} feel lovely %VAR{smiles}
+my %VAR{bodypart} goes sideways
+my %VAR{bodypart} is %VAR{sillyVerbs:presentpart}
+my %VAR{bodypart} is %VAR{sillyVerbs:presentpart} %VAR{smiles}
+my %VAR{bodypart} is %VAR{sillyVerbs:presentpart} %VAR{unsmiles}
+my %VAR{bodypart} is hurting %VAR{unsmiles}
+my %VAR{bodypart} is itchy%!, is that normal?
+my %VAR{bodypart} is itchy, is that normal?
+my %VAR{bodypart} is turning all %VAR{colours} %VAR{unsmiles}
+my %VAR{clothes}'s stuck %VAR{unsmiles}
+my knees feel lovely %VAR{smiles}
+my speedos!
+my zipper's stuck %VAR{unsmiles}
+n%REPEAT{1:10:o} my %VAR{bodypart}! i'm not supposed to get %VAR{sillyThings:strip,plural} in it!
+nigel
+noooo! enormous naked buttocks heading towards my head!%!%|i'm being simultaneously crushed and embarrassed to death
+nostril
+of course i've been up all night but not cos of coffee no it was insomnia i'm tired *zzz* coffee time!%|*DING* (52)
+oh crud! he ate my suit!%|%BOT[the suit was ugly! whale biologist!]
+oh dear, my bank is now a trendy %VAR{sillyThings:strip} %VAR{unsmiles}
+oh man, i just barfed a load of data onto my screen %VAR{unsmiles}
+ok, we've got the hot tub hot, the wine cooler's cool: it's %VAR{sillyThings:strip} time!
+omg this %VAR{sillyThings:strip} is the Best Thing Ever
+only throwing it into the sun will destroy it%|%BOT[I could hit it with a shovel]%!%|Not good enough.%|%BOT[This one time, I hit a guy into the ground with a shovel]%|yes, yes.
+ow! I stubbed my %VAR{bodypart} %SMILEY{sad}
+ow!%|/grabs crotch%|/= Michael Jackson
+penguin
+pfft might as well fuck myself, it's the only way I'll get any this side of the 22nd century
+pie pie pie pie
+pika
+pika pika!
+pika...CHUUUU!!! *ZZZAAP*
+pikachu!
+play with my flower
+pop
+princess, i'm certain we could fit one more horse in your-- in-- in yo-- ....%|Deleting all animes...
+setty mings lalalala
+she took... all those horses...
+shh, sekrit
+some people are really thivk
+someone give me something to lick
+that was a fucking rough game up yours
+the %VAR{bodypart} is a hollow shell filled with an explosive
+the loot! the loot! the loot is on fire!
+the nice girls love a sailor
+there's usually someone fiddling with me
+there, good as new. except that we're three miles below the surface, we're out of food, and the channel doesn't work underwater%|%BOT[tempers are wearing thin - let's just hope some bot doesn't kill everybody...]
+these %={chinese:japanese:french:english:norwegian:cooking} mags are getting me on
+these last 24 hours have been the happiest days of my life
+they're all like, stop spraying me with ink, %me, stop eating the garbage, %me
+this has been %me, your guide to the world of facts!
+this little piggy went to %VAR{locations}%|this little piggy stayed home%|this little piggy had %VAR{foods}%|this little piggy had none%|and this little piggy went wee wee wee all the way home!
+this one time, at %VAR{sillyThings:strip} camp, i put %VAR{sillyThings}...
+to induce vomiting, that was the answer! everywhere it went!%!%|what a valentine's day that was
+too bad %ruser's not around... i'll have to eat this raw dripping ham by myself
+uNF
+very flickable considering its length and bulk
+waCHOO *sniff*%|%BOT[¬VAR{blessyous}]
+wh%REPEAT{3:8:e}
+what a difference head makes!
+what am i doing here?! wait, where are my %VAR{clothes:plural}?
+what am i doing here?! wait, where are my underpants?
+what d'you say we just hit a strip joint?%|%BOT[i was waiting for one of us to say that!]
+what to do, what to do... three hundred one-dollar hookerbots or one three hundred dollar hooker bot?
+what was %ruser{enemy}'s gaydar page?
+what? it's not even scratch-and-sniff?
+wheeeee
+when this %VAR{sillyThings:strip} hits %NUMBER{10000} mph, we're going to see some serious shit
+where do you have sex with %VAR{sillyThings}?
+where do you have sex with a cake?
+where there's a snack gap, %VAR{sillyThings:strip} fits
+where there's a snack gap, a %VAR{PROM} fits
+which of the following would you most prefer? a) %VAR{sillyThings}, b) a pretty %VAR{sillyThings:strip} from your sweetie, c) a large properly-formatted data file?%|%BOT[CHOOSE]
+which of the following would you most prefer? a) a puppy, b) a pretty flower from your sweetie, c) a large properly-formatted data file?%|%BOT[CHOOSE]
+which of you fat bastards did this to my camel!?
+why just the other day i watched a film with %VAR{sillyThings}
+why just the other day i watched a film with a plot
+why that's genius! put water in the bathtub, and then the flying spaghetti monster can't get me!
+yaZOO
+yay! %VAR{bodypart:plural}!
+yes, we all miss our loved ones and gasses
+you can tell the point at which he comes by the deepening shade of purple
+you know it's been a good night when you go in your bag for the camera and it's in there with your tights
+you wouldn't steal a handbag%|you wouldn't steal a car%|you wouldn't steal %VAR{sillyThings}!%|downloading films is stealing!
+you wouldn't steal a handbag%|you wouldn't steal a car%|you wouldn't steal %VAR{sillyThings}!%|you wouldn't shoot a policeman, and then steal his %VAR{sillyThings}%|you wouldn't go to the toilet in it and then send it to the policeman's grieving widow%|and then steal it again!%|downloading films is stealing!
+zut alors
+~oof~
+~rarr~

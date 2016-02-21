@@ -1,0 +1,14 @@
+%% <3
+%% is the best thing
+%%++
+%REPEAT{3:7:m} %%
+/<3 %%
+affirmative
+giev
+gimme
+ooh yes please
+r
+r %VAR{smiles}
+wh%REPEAT{4:10:e}%|%% == best
+yes
+yes please %2
