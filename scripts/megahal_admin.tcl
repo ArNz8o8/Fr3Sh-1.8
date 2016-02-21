@@ -1,15 +1,16 @@
 #### MegaHAL admin script - by ArNz|8o8
+### Moved most binds, because they where obsolete on Megahal 3.5
 
-bind pub o|o !megahal-off pub_!megahal-off
-bind pub o|o !megahal-on pub_!megahal-on
-bind pub o|o !learnall-off pub_!learnall-off
-bind pub o|o !learnall-on pub_!learnall-on
-bind pub o|o !freespeak-off pub_!freespeak-off
-bind pub o|o !freespeak-on pub_!freespeak-on
-bind pub o|o !megahalall-off pub_!megahalall-off
-bind pub o|o !megahalall-on pub_!megahalall-on
-bind pub o|o !$botnick-off pub_!megahalall-off
-bind pub o|o !$botnick-on pub_!megahalall-on
+# bind pub o|o !megahal-off pub_!megahal-off
+# bind pub o|o !megahal-on pub_!megahal-on
+# bind pub o|o !learnall-off pub_!learnall-off
+# bind pub o|o !learnall-on pub_!learnall-on
+# bind pub o|o !freespeak-off pub_!freespeak-off
+# bind pub o|o !freespeak-on pub_!freespeak-on
+# bind pub o|o !megahalall-off pub_!megahalall-off
+# bind pub o|o !megahalall-on pub_!megahalall-on
+# bind pub o|o !$botnick-off pub_!megahalall-off
+# bind pub o|o !$botnick-on pub_!megahalall-on
 bind pub o|o !megahalinfo pub_megahalinfo
 
 proc pub_!megahal-off {nick host hand chan arg} {
@@ -64,7 +65,6 @@ proc pub_!megahalall-on {nick host hand chan arg} {
 }
 
 proc pub_megahalinfo {nick uhost hand chan arg} {
-  global learnmode
   puthelp "PRIVMSG $chan :Fr3Sh is an Eggdrop v1.8.0+infiniteinfo with MegaHAL/bMotion and is maintained by ArNz|8o8" 
 }
 
