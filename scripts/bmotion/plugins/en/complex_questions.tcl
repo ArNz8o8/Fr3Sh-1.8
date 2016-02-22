@@ -108,9 +108,10 @@ proc bMotion_plugin_complex_question { nick host handle channel text } {
         if {$where != ""} {
           # Hmm
           # TODO: pick up Eggdrop's timezone setting, or the system one from ENV?
+          
           set now [clock format [clock seconds]]
         } else {
-          set now [clock format [clock seconds] -gmt 1]
+          set now [clock format [clock seconds] -gmt 0 ]
         }
         bMotionDoAction $channel $nick "%%: it's $now"
         return 1
