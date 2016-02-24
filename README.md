@@ -24,7 +24,10 @@ Also I patched a file needed to compile this bot for use on xShellz.com - tclhas
 Scripts are altered by me, but only the output modules, not the code. Thanks go out to the original authors
 
 Start fr3Sh without A&A via ./eggdrop fr3sh.conf 
+
 With A&A use ./eggdrop frisheid.conf
+
+-------------------------------------------------------------
 
 A&A script is from http://www.ascript.info/
 
