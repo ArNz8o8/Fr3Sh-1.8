@@ -5,8 +5,8 @@ Fr3Sh 1.8 Read me
 I am fr3Sh, running eggdrop v1.8.0+infiniteinfo
 
 Configured with: 
-Admin: ArNz|8o8
 
+Admin: ArNz|8o8
 Config file: fr3sh.conf
 OS: Linux 3.14.51-grsec-b0lt
 Process ID: 3494 (parent 1)
@@ -25,6 +25,11 @@ This is an eggdrop install for personal use by me. It is here as a reminder sinc
 Also I patched a file needed to compile this bot for use on xShellz.com - tclhash.c
 
 Scripts are altered by me, but only the output modules, not the code. Thanks go out to the original authors
+
+Start fr3Sh without A&A via ./eggdrop fr3sh.conf 
+With A&A use ./eggdrop frisheid.conf
+
+A&A script is from http://www.ascript.info/
 
 bMotion IA script is from http://www.bmotion.net
 
