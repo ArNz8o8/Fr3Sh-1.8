@@ -6,18 +6,15 @@ I am fr3Sh, running eggdrop v1.8.0+infiniteinfo
 
 Configured with: 
 
-Admin: ArNz|8o8
-Config file: fr3sh.conf
 OS: Linux 3.14.51-grsec-b0lt
-Process ID: 3494 (parent 1)
+
 Tcl library: /usr/share/tcltk/tcl8.6
 Tcl version: 8.6.2 (header version 8.6.2)
-Tcl is threaded.
-TLS support is enabled.
+
 TLS library: OpenSSL 1.0.1k 8 Jan 2015
 IPv6 support is enabled.
-Socket table: 20/100
-Loaded module information:
+
+
 
 -------------------------------------------------------------
 
