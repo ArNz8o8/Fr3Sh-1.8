@@ -6,6 +6,7 @@ I am fr3Sh, running eggdrop v1.8.0+infiniteinfo
 
 Configured with: 
 Admin: ArNz|8o8
+
 Config file: fr3sh.conf
 OS: Linux 3.14.51-grsec-b0lt
 Process ID: 3494 (parent 1)
