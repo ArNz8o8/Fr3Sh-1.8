@@ -131,7 +131,7 @@ set tgusebold 0
 
 #  Send private messages using /msg (1) or not (0)?
 #  If set to 0, private messages will be sent using /notice
-set tgpriv2msg 1
+set tgpriv2msg 0
 
 #  Word to use as /msg command to give help.
 #  e.g. set tgcmdhelp "helpme" will make the bot give help when someone
@@ -289,7 +289,7 @@ proc tgunbindhintcmd {} {
 tgbindhintcmd
 bind pubm $tgflagsskip "$tgchan %$tgcmdskip" tgskip
 bind pubm $tgflagstop10 "$tgchan %$tgcmdtop10" tgshowtop10
-bind join -|- "$tgchan *" tgjoinmsg
+
 bind msg - $tgcmdhelp tggivehelp
 bind msg - $tgcmdlookup tgscorelookup
 bind msg - $tgcmdtarget tgtargetlookup
@@ -761,24 +761,7 @@ proc tgstreakend {} {
 		return
 }
 
-#triggered when someone joins trivia chan.
-proc tgjoinmsg {nick host hand chan} {
-	global botnick tgplaying tgcmdhelp tgcmdstart tgflagsstart tgcmdstop tgflagsstop tgchan
-	if {$nick != $botnick} {
-		set _msg ""
-		append _msg "Welcome to $botnick's trivia channel. Trivia game is currently"
-		if {$tgplaying==1} {
-			append _msg " \002on\002."
-		} else {
-			append _msg " \002off\002."
-		}
-		if {[matchattr $hand $tgflagsstart $tgchan]&&$tgplaying==0} {
-			append _msg " To start the game, type \002$tgcmdstart\002 on $tgchan."
-		}
-		append _msg " Please type \002/MSG $botnick [strupr $tgcmdhelp]\002 if you need help. Enjoy your stay! :-)"
-		[tgpriv] $nick "$_msg"
-	}
-}
+
 
 #triggered when someone /msgs the bot with the score lookup command.
 proc tgscorelookup {nick host hand text} {
