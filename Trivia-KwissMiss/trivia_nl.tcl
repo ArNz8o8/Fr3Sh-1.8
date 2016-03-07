@@ -4,7 +4,7 @@
 
 #  The full path to the file containing the questions and answers.
 #  The account the bot runs on must have read access to this file.
-set tgqdb "/home/8o8networkz/frisheid/scripts/trivia.questions"
+set tgqdb "/home/8o8networkz/frisheid/scripts/Trivia_NL.questions"
 
 #  The character that seperates the question and the answer in the
 #  question/answer file.
@@ -618,7 +618,7 @@ proc tgcorrectanswer {nick} {
 			if {$tgshowallscores==0} {
 				append _msg " Je bent een plek omhoog gegaan!"
 			} else {
-				append _msg " Je staat nu op plek [tgcolmisc2][ordnumber $tgranksbyname([strlwr $nick])][tgcolmisc1] of [tgcolmisc2]$tgscorestotal[tgcolmisc1], achter [tgcolmisc2]$tgrealnames($tgranksbynum([expr $_newrank-1]))[tgcolmisc1] met [tgcolmisc2]$tgscoresbyrank([expr $_newrank-1])[tgcolmisc1]."
+				append _msg " Je staat nu op plek [tgcolmisc2][ordnumber $tgranksbyname([strlwr $nick])][tgcolmisc1] van de [tgcolmisc2]$tgscorestotal[tgcolmisc1], achter [tgcolmisc2]$tgrealnames($tgranksbynum([expr $_newrank-1]))[tgcolmisc1] met [tgcolmisc2]$tgscoresbyrank([expr $_newrank-1])[tgcolmisc1]punten."
 			}
 		}
 	}
@@ -733,9 +733,9 @@ proc tgshowscores {nick} {
 		if {$tgranksbyname([strlwr $nick])==1} {
 			set _tgt "."
 		} else {
-			set _tgt ", behind [tgcolmisc2]$tgrealnames($tgranksbynum([expr $tgranksbyname([strlwr $nick])-1]))[tgcolmisc1] with [tgcolmisc2]$tgscoresbyrank([expr $tgranksbyname([strlwr $nick])-1])[tgcolmisc1]."
+			set _tgt ", achter [tgcolmisc2]$tgrealnames($tgranksbynum([expr $tgranksbyname([strlwr $nick])-1]))[tgcolmisc1] met [tgcolmisc2]$tgscoresbyrank([expr $tgranksbyname([strlwr $nick])-1])[tgcolmisc1]."
 		}
-		tggamemsg "[tgcolmisc2]$nick [tgcolmisc1]now has [tgcolmisc2]$tgscoresbyname([strlwr $nick]) [tgcolmisc1][expr $tgscoresbyname([strlwr $nick])==1?"point":"points"] and is ranked [tgcolmisc2][ordnumber $tgranksbyname([strlwr $nick])] [tgcolmisc1]of [tgcolmisc2]$tgscorestotal[tgcolmisc1]$_tgt"
+		tggamemsg "[tgcolmisc2]$nick [tgcolmisc1]heeft nu [tgcolmisc2]$tgscoresbyname([strlwr $nick]) [tgcolmisc1][expr $tgscoresbyname([strlwr $nick])==1?"point":"points"] en staat op [tgcolmisc2][ordnumber $tgranksbyname([strlwr $nick])] [tgcolmisc1]van de [tgcolmisc2]$tgscorestotal[tgcolmisc1]$_tgt"
 	}
 }
 
