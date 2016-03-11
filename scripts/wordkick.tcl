@@ -35,12 +35,12 @@ proc filter_bad_words {nick uhost handle channel args} {
 	foreach badword [string tolower $badwords] {     
 	if {[string match *$badword* [string tolower $args]]}  {
        if {[matchattr $handle +g]} {
-           putlog "-Verkeerd woord- $nick ($handle) with +g flags said $args on $channel"
+           putlog "-Verkeerd woord- $nick ($handle) with +g flag said $args on $channel"
        } elseif {[matchattr $handle +o]} {
-           putlog "-Verkeerd woord- $nick ($handle) with +o flags said $args on $channel"
+           putlog "-Verkeerd woord- $nick ($handle) with +o flag said $args on $channel"
        } else {
            putlog "-Verkeerd woord- KICKED $nick on $channel matched by $args"
-           putquick "KICK $channel $nick :Used a banned word in the sentence $args. $badreason"
+           putquick "KICK $channel $nick :Used a thou-shall-not word in $args. $badreason"
            newchanban $channel $banmask $botnick $badreason $bwduration
        }
     }
