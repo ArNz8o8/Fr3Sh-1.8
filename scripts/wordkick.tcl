@@ -1,38 +1,51 @@
-bind pubm -|- * blocked:words
+## Verkeerd woord script 1.0a release - by ArNz|8o8
+## Minimaal G flag nodig voor geen ban
 
-setudef flag bwords
-
-#? and * works as wildcards
-set bwords(words) "*nigger* *telfort*"
-#Allow pflag to use these words ?
-set bwords(p) 1
-set bwords(pflag) o
-
-#How long time to last ? must be in minutes.
-set bwords(mins) 15
-
-bind ctcp -|- * blocked:words2
-
-proc blocked:words2 {nick uhost handle dest keyword text} {
- if {[validchan $dest]} { blocked:words $nick $uhost $handle $dest $text }
+# Stel slecht woord in
+set badwords { 
+"kanker"
+"kk"
+"telfort"
+"nigger"
 }
 
-proc blocked:words {nick uhost handle chan text} {
-global botnick bwords
- set word [join [lindex [split $text] 0]]
-  if {![string match "*+bwords*" [channel info $chan]]} { return 0 }
-  if {[matchattr $handle $bwords(pflag)|$bwords(pflag) $chan] && $bwords(p)==1} { return 0 }
-  foreach w [split $bwords(words) " "] {
-   if {[string match [join $w] [join $word]]} {
-    set nck [split [getchanhost $nick] "@"]
-    set b1 [split [lindex $nck 1] "\."]
-    set domain [lindex $b1 [expr [llength $b1]-2]].[lindex $b1 [expr [llength $b1]-1]]
-    set banmask *![lindex $nck 0]@*.$domain
-    newchanban $chan $banmask $botnick "Used $word at $chan - $bwords(mins) mins ban ([strftime %m-%d-%Y @ %H:%M])" $bwords(mins)
-    putlog "Banned $nick@$chan for using $word."
-    return 0
-   }
+# Ban reden
+set badreason "Don't.. Just don't."
+
+# Ban tijd
+set bwduration 2
+
+### Begin Script:
+
+## Binding all Public Messages to our Process
+bind pubm - * filter_bad_words
+
+### Borrowed from awyeahs tcl scripts (www.awyeah.org) ###
+proc ccodes:filter {str} {
+  regsub -all -- {\003([0-9]{1,2}(,[0-9]{1,2})?)?|\017|\037|\002|\026|\006|\007} $str "" str
+  return $str
+}
+
+## Starting Process
+proc filter_bad_words {nick uhost handle channel args} {
+ global badwords badreason banmask botnick bwduration
+ set args [ccodes:filter $args] 
+  set handle [nick2hand $nick]
+   set banmask "*![lindex [split $uhost @] 0]@[lindex [split $uhost @] 1]" 
+	foreach badword [string tolower $badwords] {     
+	if {[string match *$badword* [string tolower $args]]}  {
+       if {[matchattr $handle +g]} {
+           putlog "-Verkeerd woord- $nick ($handle) with +g flags said $args on $channel"
+       } elseif {[matchattr $handle +o]} {
+           putlog "-Verkeerd woord- $nick ($handle) with +o flags said $args on $channel"
+       } else {
+           putlog "-Verkeerd woord- KICKED $nick on $channel matched by $args"
+           putquick "KICK $channel $nick :Used a banned word in the sentence $args. $badreason"
+           newchanban $channel $banmask $botnick $badreason $bwduration
+       }
+    }
   }
 }
+bind pubm - * filter_bad_words
 
-putlog "Wordkick - 1.0 release version by ArNz|8o8"
+putlog "Verkeerd woord script 1.0a release by ArNz|8o8 loaded"
