@@ -17,10 +17,10 @@ set bwduration 2
 
 ### Begin Script:
 
-## Binding all Public Messages to our Process
+## Bind all input from channels
 bind pubm - * filter_bad_words
 
-### Borrowed from awyeahs tcl scripts (www.awyeah.org) ###
+### Borrowed from awyeahs tcl scripts###
 proc ccodes:filter {str} {
   regsub -all -- {\003([0-9]{1,2}(,[0-9]{1,2})?)?|\017|\037|\002|\026|\006|\007} $str "" str
   return $str
